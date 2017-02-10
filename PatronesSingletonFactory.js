@@ -32,6 +32,7 @@ var Calculadora = (function() {
         }
       
         if (type === "cientifica") {
+            // Por definir comportamiento ...
             return {};
         }
     };
