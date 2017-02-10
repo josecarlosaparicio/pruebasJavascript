@@ -94,12 +94,6 @@ println(objetoCaotico["persona"]["apellidos"]);
 //objetoCaotico.despedirse("Sara");
 
 
-
-
-
-
-
-
 /* Funciones auxiliares para simplificar la visualizacion del ejercicio */
 function println(valor){
     $("#pagina").append("<div>" + valor + "</div>"); 
