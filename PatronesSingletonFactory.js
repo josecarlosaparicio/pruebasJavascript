@@ -1,6 +1,6 @@
 var Calculadora = (function() {
 
-    function CalculadoraSingleton(type) {
+    var CalculadoraSingleton = function(type) {
         if (!CalculadoraSingleton.instance) {
             CalculadoraSingleton.instance = CalculadoraFactory(type);
         }
