@@ -9,11 +9,12 @@ var arrayComplejo = [
   1,8.97,false, true, 'ejemplo'
 ];
 
-println(objeto);
-println(JSON.stringify(objeto));
-println(arraySimple);
-println(arrayComplejo)
-salto();
+console.log(objeto);
+console.log(JSON.stringify(objeto));
+console.log(arraySimple);
+console.log(arrayComplejo);
+
+console.log("");
 
 /* Ejercicios con referencias */
 var coche = {
@@ -27,26 +28,26 @@ var coche = {
 
 /* Ejemplo referencias en objetos */
 ref1 = coche;
-println(ref1.matricula);
+console.log(ref1.matricula);
 ref1.marca = "Seat";
 ref1.modelo = "Ibiza";
-println(coche.marca + " " + coche.modelo);
+console.log(coche.marca + " " + coche.modelo);
 
 /* Ejemplo referencias en arrays */
 ref2 = listaCompra;
 ref2[0] = "macarrones";
-println(listaCompra[0]);
+console.log(listaCompra[0]);
 
-salto();
+console.log("");
 
 /* El operador '=' en tipos primitivos o simples hace copia, no referencia */
 ref3 = numero;
-println(ref3);
+console.log(ref3);
 ref3 = 879871;
-println(numero);
-println(ref3);
+console.log(numero);
+console.log(ref3);
 
-salto();
+console.log("");
 
 /* Implementando mapas */
 var mapa = {
@@ -55,13 +56,13 @@ var mapa = {
   "222222511J" : "Lucia"  
 };
 
-println(mapa["665464873R"]);
-println("222222511J" in mapa);
-println("000000000G" in mapa);
-println(mapa.hasOwnProperty("665464873R"));
-println(mapa.hasOwnProperty("777788970R"));
+console.log(mapa["665464873R"]);
+console.log("222222511J" in mapa);
+console.log("000000000G" in mapa);
+console.log(mapa.hasOwnProperty("665464873R"));
+console.log(mapa.hasOwnProperty("777788970R"));
 
-salto();
+console.log("");
 
 var objetoCaotico = {
   1 : {
@@ -82,23 +83,13 @@ var objetoCaotico = {
   }
 };
 
-println(objetoCaotico["499877-448-05"]);
-println(objetoCaotico.elemento);
-println(objetoCaotico[1]["nombre"]);
-println(objetoCaotico[1].apellidos);
-println(objetoCaotico.persona["nombre"]);
-println(objetoCaotico.persona.apellidos);
-println(objetoCaotico["persona"]["apellidos"]);
-println(objetoCaotico["persona"]["apellidos"]);
+console.log(objetoCaotico["499877-448-05"]);
+console.log(objetoCaotico.elemento);
+console.log(objetoCaotico[1]["nombre"]);
+console.log(objetoCaotico[1].apellidos);
+console.log(objetoCaotico.persona["nombre"]);
+console.log(objetoCaotico.persona.apellidos);
+console.log(objetoCaotico["persona"]["apellidos"]);
+console.log(objetoCaotico["persona"]["apellidos"]);
 //objetoCaotico.saludar("Maria");
 //objetoCaotico.despedirse("Sara");
-
-
-/* Funciones auxiliares para simplificar la visualizacion del ejercicio */
-function println(valor){
-    $("#pagina").append("<div>" + valor + "</div>"); 
-}
-function salto(){
-  //$("#pagina").append("<br />");
-  $("#pagina").append('<span style="border-top:1px solid #ddd;width:100%; height:1px;display:block;margin:10px 0"></span>');
-}
