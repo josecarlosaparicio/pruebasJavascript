@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    </head>
+    <body>
+        <div data-ng-controller="jugadoresController" data-ng-init="init()">
+           <select name="comboJugadores" id="comboJugadores" ng-model="jugadorSeleccionado">
+                <option value="">- Seleccione un jugador -</option>
+                <option ng-repeat="jugador in jugadores track by $index" value="{{$index}}">
+                    {{jugador}}
+                </option>
+            </select>
+           <span data-ng-if="jugadorSeleccionado">
+               Posición array jugador seleccionado: {{jugadorSeleccionado}} 
+           <span>
+        </div>
+
+        <div data-ng-controller="entrenadoresController as enCtrl" data-ng-init="enCtrl.init()">
+           <select name="comboEntrenadores" id="comboEntrenadores"
+              ng-options="entrenador.nombre for entrenador in enCtrl.entrenadores"
+              ng-model="enCtrl.entrenadorSeleccionado">
+             <option value="">- Seleccione un entrenador -</option>
+          </select>
+          <span data-ng-if="enCtrl.entrenadorSeleccionado">
+              <input type="text" data-ng-model="enCtrl.entrenadorSeleccionado.nombre" data-ng-disabled="true" /> 
+               Id entrenador seleccionado: {{enCtrl.entrenadorSeleccionado.id}} 
+           <span>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
+        <script src="app.js"></script>
+    </body>
+</html>
