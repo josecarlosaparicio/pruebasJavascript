@@ -13,10 +13,19 @@
             </select>
            <span data-ng-if="jugadorSeleccionado">
                Posición array jugador seleccionado: {{jugadorSeleccionado}} 
-           <span>
+           </span>
+           <br />
+           <button class="btn btn-primary" data-ng-click="alinear(jugadorSeleccionado)">
+             Añadir a la alineación
+           </button>
+           <ul>
+                <li ng-repeat="jugador in alineacion track by $index" data-ng-click="eliminar($index)">
+                  {{jugador}}
+                </li>
+           </ul>
         </div>
 
-        <div data-ng-controller="entrenadoresController as enCtrl" data-ng-init="enCtrl.init()">
+        <!--<div data-ng-controller="entrenadoresController as enCtrl" data-ng-init="enCtrl.init()">
            <select name="comboEntrenadores" id="comboEntrenadores"
               ng-options="entrenador.nombre for entrenador in enCtrl.entrenadores"
               ng-model="enCtrl.entrenadorSeleccionado">
@@ -26,7 +35,7 @@
               <input type="text" data-ng-model="enCtrl.entrenadorSeleccionado.nombre" data-ng-disabled="true" /> 
                Id entrenador seleccionado: {{enCtrl.entrenadorSeleccionado.id}} 
            <span>
-        </div>
+        </div>-->
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
         <script src="app.js"></script>

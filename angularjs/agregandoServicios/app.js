@@ -5,8 +5,23 @@ angular.module('miAplicacionDePrueba', [])
         function($scope, futbolService) {
 
             $scope.init = function() {
+                $scope.alineacion = [];
                 $scope.jugadores = futbolService.getJugadores();
                 $scope.jugadorSeleccionado = "";
+            };
+          
+            $scope.alinear = function(posJugador){
+                if(posJugador in $scope.jugadores && !isInArray($scope.jugadores[posJugador], $scope.alineacion)){
+                    $scope.alineacion.push($scope.jugadores[posJugador]);
+                }
+            };
+          
+            $scope.eliminar = function(index){
+                $scope.alineacion.splice(index, 1);
+            };
+
+            var isInArray = function(value, array) {
+                return array.indexOf(value) > -1;
             };
 
         }
