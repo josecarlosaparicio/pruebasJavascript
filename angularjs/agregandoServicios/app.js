@@ -11,7 +11,8 @@ angular.module('miAplicacionDePrueba', [])
             };
           
             $scope.alinear = function(posJugador){
-                if(posJugador in $scope.jugadores && !isInArray($scope.jugadores[posJugador], $scope.alineacion)){
+                if(posJugador in $scope.jugadores && 
+                   !isInArray($scope.jugadores[posJugador], $scope.alineacion)){
                     $scope.alineacion.push($scope.jugadores[posJugador]);
                 }
             };
@@ -87,14 +88,13 @@ angular.module('miAplicacionDePrueba', [])
             {id: 9,  nombre: 'Gustavo Poyet'},
             {id: 10, nombre: 'Jorge Sampaoli'},
             {id: 11, nombre: 'José Luis Mendilibar'},
-            {id: 12, nombre: 'Juande Ramos'},
-            {id: 13, nombre: 'La Liga'},
-            {id: 14, nombre: 'Luis Enrique'},
-            {id: 15, nombre: 'Paco Jémez'},
-            {id: 16, nombre: 'Pako Ayestarán'},
-            {id: 17, nombre: 'Quique Sánchez Flores'},
-            {id: 18, nombre: 'Quique Setién'},
-            {id: 19, nombre: 'Zinedine Zidane'}
+            {id: 12, nombre: 'Juande Ramos'},       
+            {id: 13, nombre: 'Luis Enrique'},
+            {id: 14, nombre: 'Paco Jémez'},
+            {id: 15, nombre: 'Pako Ayestarán'},
+            {id: 16, nombre: 'Quique Sánchez Flores'},
+            {id: 17, nombre: 'Quique Setién'},
+            {id: 18, nombre: 'Zinedine Zidane'}
         ];
 
         futbolService.getJugadores = function() {
