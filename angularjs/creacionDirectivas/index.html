@@ -1,0 +1,75 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <style>
+        campo{
+          position: relative;
+          display: block;
+          width: 750px;
+          min-height: 1100px;
+          background: transparent  url('http://2.bp.blogspot.com/_HWJA3wNb9pM/TBKnWGeFEDI/AAAAAAAAL6o/MPFiDur953A/s1600/soccer+party+placemat.jpg') no-repeat top center; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        jugador{
+           top: 10px;
+           left: 5px;
+           background-color: #FFF;
+           cursor: pointer;
+           padding: 5px 10px;
+           border-radius: 10px;
+           border: 3px solid #FFF;
+           color: #FFF;
+           font-weigth:bolder;
+           position: absolute;
+        }
+        
+        jugador.delantero{
+            background: red;
+        }
+
+        jugador.medio{
+            background: #2196f3;
+        }
+
+        jugador.defensa{
+            background: #cea51d;
+        }
+
+        jugador.portero{
+            background: #4caf50;
+        }
+    </style>
+</head>
+<body>
+    <div data-ng-controller="alineacionCtrl" data-ng-init="init()">
+        <div class="form-inline">        
+            <select class="form-control" 
+                    name="comboJugadores"
+                    id="comboJugadores"
+                     ng-options="jugador.nombre for jugador in jugadores"
+                    ng-model="jugadorSeleccionado">
+              <option value="">- Seleccione un jugador -</option>          
+            </select>       
+            <button class="btn btn-primary" 
+             data-ng-click="alinear()">
+               Añadir a la alineación
+            </button>
+        </div>
+        <campo>
+            <jugador ng-repeat="jd in alineacion" class="{{jd.rol}}">
+                {{jd.nombre}} 
+                <span data-ng-click="eliminar(jd)"> X </span>
+            </jugador>
+        </campo>
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
