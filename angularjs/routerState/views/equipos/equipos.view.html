@@ -1,0 +1,7 @@
+<div data-ng-controller="equiposController" data-ng-init="init()">
+    <h1>Equipos</h1>
+    <ul class="list-group">
+      <li class="list-group-item" data-ng-repeat="equipo in equipos">{{equipo.nombre}}</li>     
+    </ul>
+    <cargando active="muestraCargando"></cargando>
+</div>

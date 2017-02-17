@@ -1,0 +1,13 @@
+<div data-ng-controller="jugadoresController" data-ng-init="init()">
+    <h1>Jugadores</h1>
+    <ul class="list-group">
+        <li class="list-group-item" 
+          data-ng-repeat="jugador in jugadores" 
+          data-ng-class="{'list-group-item-success' : jugador.rol === 'portero','list-group-item-info' : jugador.rol === 'medio','list-group-item-warning' : jugador.rol === 'defensa', 'list-group-item-danger' : jugador.rol === 'delantero'}">
+            {{jugador.nombre}}
+        </li>     
+    </ul>
+    <cargando active="muestraCargando"></cargando>
+</div>
+
+

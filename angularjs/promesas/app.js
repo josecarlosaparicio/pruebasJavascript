@@ -1,29 +1,33 @@
+// Definición de la aplicacion
 angular.module('miAplicacionDePrueba', [])
-    .controller('alineacionCtrl', [
+    .controller('jugadoresController', [
         '$scope', 'futbolService',
         function($scope, futbolService) {
 
             $scope.init = function() {
                 $scope.alineacion = {};
-                $scope.jugadores = futbolService.getJugadores();
+                $scope.cargando = true;
+                futbolService.getJugadores().then(function(data){
+                    $scope.cargando = false;
+                    $scope.jugadores = data;
+                });
                 $scope.jugadorSeleccionado = "";
             };
           
             $scope.alinear = function(){
                 var jugador = $scope.jugadorSeleccionado;
                 if(jugador && !$scope.alineacion.hasOwnProperty(jugador.id)){
-                    $scope.alineacion[jugador.id] = jugador;                    
+                    $scope.alineacion[jugador.id] = jugador; 
                 }               
             };
           
             $scope.eliminar = function(jugador){
                 delete $scope.alineacion[jugador.id];
-            };       
+            };
 
         }
-    ])
-
-    .service('futbolService', ['$http', '$q', function($http, $q) {
+    ])   
+    .service('futbolService', ['$timeout', '$q', function($timeout, $q) {
         var futbolService = {};
 
         var JUGADORES = [
@@ -59,43 +63,22 @@ angular.module('miAplicacionDePrueba', [])
             {id: 30, nombre:'Pacheco', rol: 'portero'},
             {id: 31, nombre:'Adán', rol: 'portero'}
         ];
-        
+
         futbolService.getJugadores = function() {
-            return JUGADORES;
-        };      
+            // 1. Creacion de la promesa
+            var defer = $q.defer();
+          
+            // Simulacion llamada al servicio para obtener los jugadores
+            $timeout(function(){
+                // 3. Se resuelve la promesa con la informacion de los jugadores
+                defer.resolve(JUGADORES);
+            },3000);
+          
+            // 2. Se devuelve la promesa
+            return defer.promise;
+        };
 
         return futbolService;
-    }])
-
-    .directive('jugador', ['$document', function($document) {
-        return {
-          link: function(scope, element, attr) {
-            var startX = 0, startY = 0, x = 0, y = 0;    
-
-            element.on('mousedown', function(event) {
-              // Prevent default dragging of selected content
-              event.preventDefault();
-              startX = event.pageX - x;
-              startY = event.pageY - y;
-              $document.on('mousemove', mousemove);
-              $document.on('mouseup', mouseup);
-            });
-
-            function mousemove(event) {
-              y = event.pageY - startY;
-              x = event.pageX - startX;
-              element.css({
-                top: y + 'px',
-                left:  x + 'px'
-              });
-            }
-
-            function mouseup() {
-              $document.off('mousemove', mousemove);
-              $document.off('mouseup', mouseup);
-            }
-          }
-        };
     }]);
 
 

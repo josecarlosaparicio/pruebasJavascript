@@ -1,0 +1,48 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+        .list-group, .form-group{
+            margin-top:20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="col-xs-12" data-ng-controller="jugadoresController" data-ng-init="init()">
+
+            <div class="form-group">
+                <select class="form-control" 
+                name="comboJugadores"
+                id="comboJugadores"
+                ng-options="jugador.nombre for jugador in jugadores"
+                ng-model="jugadorSeleccionado">
+                    <option value="">- Seleccione un jugador -</option>
+                </select>
+                <div data-ng-show="cargando">
+                    <i class="fa fa-spinner fa-spin"></i> Cargando jugadores
+                </div>
+            </div>
+
+            <button class="btn btn-primary" 
+            data-ng-click="alinear()">
+                Añadir a la alineación
+            </button>    
+
+            <ul class="list-group">
+                <li class="list-group-item" 
+                ng-repeat="jugador in alineacion" 
+                data-ng-click="eliminar(jugador)">
+                    {{jugador.nombre}}
+                </li>
+            </ul>
+
+        </div>  
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
