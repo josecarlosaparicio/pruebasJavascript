@@ -6,3 +6,15 @@ angular.module('aplicacionFutbol').directive('cargando', function(){
         }
     }
 });
+
+
+angular.module('aplicacionFutbol').directive('escudo', function(){
+    return {
+        template : '<span data-ng-if="equipo && equipo.crestUrl"><img class="escudo pull-right" src="{{equipo.crestUrl}}" /></span>',
+        scope : {
+            equipo : '='
+        }
+    }
+});
+
+

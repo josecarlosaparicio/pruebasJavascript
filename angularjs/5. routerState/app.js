@@ -6,8 +6,11 @@ angular.module('aplicacionFutbol', ['ui.router', 'oc.lazyLoad'])
         $stateProvider
             .state({
                 name: 'jugadores',
-                url: '/jugadores',
+                url: '/jugadores/:idEquipo',
                 templateUrl: 'views/jugadores/jugadores.view.html',
+                params : {
+                    equipo : null
+                },
                 resolve: {
                     loadDependecesCtrl: ['$ocLazyLoad', function($ocLazyLoad) {
                         return $ocLazyLoad.load([
@@ -20,7 +23,7 @@ angular.module('aplicacionFutbol', ['ui.router', 'oc.lazyLoad'])
             .state({
                 name: 'equipos',
                 url: '/equipos',
-                templateUrl: 'views/equipos/equipos.view.html',
+                templateUrl: 'views/equipos/equipos.view.html',               
                 resolve: {
                     loadDependecesCtrl: ['$ocLazyLoad', function($ocLazyLoad) {
                         return $ocLazyLoad.load([

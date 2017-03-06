@@ -1,0 +1,150 @@
+{
+    "equipo": "Espanyol",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 528,
+        "posicion": "Portero",
+        "nombre": "Roberto Jim\u00e9nez",
+        "dorsal": 1
+    }, {
+        "id": 1067,
+        "posicion": "Portero",
+        "nombre": "Pau L\u00f3pez",
+        "dorsal": 13
+    }, {
+        "id": 483,
+        "posicion": "Portero",
+        "nombre": "Diego L\u00f3pez",
+        "dorsal": 13
+    }, {
+        "id": 1967,
+        "posicion": "Portero",
+        "nombre": "Andr\u00e9s Prieto",
+        "dorsal": 26
+    }, {
+        "id": 347,
+        "posicion": "Defensa",
+        "nombre": "Mart\u00edn Demichelis",
+        "dorsal": 2
+    }, {
+        "id": 1962,
+        "posicion": "Defensa",
+        "nombre": "Rub\u00e9n Duarte",
+        "dorsal": 3
+    }, {
+        "id": 212,
+        "posicion": "Defensa",
+        "nombre": "Victor \u00c1lvarez",
+        "dorsal": 5
+    }, {
+        "id": 1356,
+        "posicion": "Defensa",
+        "nombre": "\u00d3scar Duarte",
+        "dorsal": 6
+    }, {
+        "id": 3246,
+        "posicion": "Defensa",
+        "nombre": "Aar\u00f3n Mart\u00edn",
+        "dorsal": 12
+    }, {
+        "id": 2116,
+        "posicion": "Defensa",
+        "nombre": "Michael Ciani",
+        "dorsal": 15
+    }, {
+        "id": 205,
+        "posicion": "Defensa",
+        "nombre": "Javi L\u00f3pez",
+        "dorsal": 16
+    }, {
+        "id": 539,
+        "posicion": "Defensa",
+        "nombre": "\u00c1lvaro Gonz\u00e1lez",
+        "dorsal": 22
+    }, {
+        "id": 1196,
+        "posicion": "Defensa",
+        "nombre": "Diego Reyes",
+        "dorsal": 23
+    }, {
+        "id": 2711,
+        "posicion": "Defensa",
+        "nombre": "Marc Navarro",
+        "dorsal": 31
+    }, {
+        "id": 207,
+        "posicion": "Mediocampista",
+        "nombre": "V\u00edctor S\u00e1nchez",
+        "dorsal": 4
+    }, {
+        "id": 158,
+        "posicion": "Mediocampista",
+        "nombre": "Salva Sevilla",
+        "dorsal": 8
+    }, {
+        "id": 502,
+        "posicion": "Mediocampista",
+        "nombre": "Jos\u00e9 Antonio Reyes",
+        "dorsal": 9
+    }, {
+        "id": 3170,
+        "posicion": "Mediocampista",
+        "nombre": "Jos\u00e9 Manuel Jurado",
+        "dorsal": 14
+    }, {
+        "id": 658,
+        "posicion": "Mediocampista",
+        "nombre": "David L\u00f3pez",
+        "dorsal": 15
+    }, {
+        "id": 837,
+        "posicion": "Mediocampista",
+        "nombre": "Hern\u00e1n P\u00e9rez",
+        "dorsal": 17
+    }, {
+        "id": 444,
+        "posicion": "Mediocampista",
+        "nombre": "Javi Fuego",
+        "dorsal": 18
+    }, {
+        "id": 130,
+        "posicion": "Mediocampista",
+        "nombre": "Pablo Piatti",
+        "dorsal": 19
+    }, {
+        "id": 309,
+        "posicion": "Mediocampista",
+        "nombre": "Pape Diop",
+        "dorsal": 20
+    }, {
+        "id": 3215,
+        "posicion": "Mediocampista",
+        "nombre": "Marc Roca",
+        "dorsal": 28
+    }, {
+        "id": 3644,
+        "posicion": "Mediocampista",
+        "nombre": "\u00d3scar Melendo",
+        "dorsal": 30
+    }, {
+        "id": 843,
+        "posicion": "Delantero",
+        "nombre": "Gerard Moreno",
+        "dorsal": 7
+    }, {
+        "id": 1656,
+        "posicion": "Delantero",
+        "nombre": "Felipe Caicedo",
+        "dorsal": 10
+    }, {
+        "id": 455,
+        "posicion": "Delantero",
+        "nombre": "Leo Baptist\u00e2o",
+        "dorsal": 11
+    }, {
+        "id": 198,
+        "posicion": "Delantero",
+        "nombre": "\u00c1lvaro V\u00e1zquez",
+        "dorsal": 22
+    }]
+}

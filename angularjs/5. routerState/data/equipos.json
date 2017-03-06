@@ -1,0 +1,124 @@
+{
+    "count": 20,
+    "teams": [{
+        "name": "Málaga CF",
+        "code": "MAL",
+        "shortName": "Málaga",
+        "squadMarketValue": "70,200,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/e8/FC_Málaga.svg"
+    }, {
+        "name": "CA Osasuna",
+        "code": "OSA",
+        "shortName": "Osasuna",
+        "squadMarketValue": null,
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/ca/Atletico_Osasuna.svg"
+    }, {
+        "name": "RC Deportivo La Coruna",
+        "code": "LAC",
+        "shortName": "Deportivo",
+        "squadMarketValue": "67,000,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/4/4e/RC_Deportivo_La_Coruña_logo.svg"
+    }, {
+        "name": "SD Eibar",
+        "code": "EIB",
+        "shortName": "Eibar",
+        "squadMarketValue": "50,400,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg"
+    }, {
+        "name": "FC Barcelona",
+        "code": "FCB",
+        "shortName": "Barcelona",
+        "squadMarketValue": "741,500,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg"
+    }, {
+        "name": "Real Betis",
+        "code": "BET",
+        "shortName": "Betis",
+        "squadMarketValue": "72,300,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg"
+    }, {
+        "name": "Granada CF",
+        "code": "GCF",
+        "shortName": "Granada",
+        "squadMarketValue": "43,950,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d3/Granada_CF.svg"
+    }, {
+        "name": "Villarreal CF",
+        "code": "VIL",
+        "shortName": "Villareal",
+        "squadMarketValue": "162,200,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg"
+    }, {
+        "name": "Sevilla FC",
+        "code": "SEV",
+        "shortName": "Sevilla",
+        "squadMarketValue": "218,400,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png"
+    }, {
+        "name": "RCD Espanyol",
+        "code": "ESP",
+        "shortName": "Espanyol",
+        "squadMarketValue": "67,900,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a7/RCD_Espanyol_De_Barcelona.svg"
+    }, {
+        "name": "Sporting Gijón",
+        "code": "SPO",
+        "shortName": "Gijón",
+        "squadMarketValue": "46,000,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/4/48/Real_Sporting_de_Gijon.svg"
+    }, {
+        "name": "Athletic Club",
+        "code": "BIL",
+        "shortName": "Athletic",
+        "squadMarketValue": "148,800,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/7f/Athletic_Club_Bilbao.svg"
+    }, {
+        "name": "Real Sociedad de Fútbol",
+        "code": "RSS",
+        "shortName": "Real Sociedad",
+        "squadMarketValue": "111,300,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/55/Real_Sociedad_San_Sebastián.svg"
+    }, {
+        "name": "Real Madrid CF",
+        "code": "MAD",
+        "shortName": "Real Madrid",
+        "squadMarketValue": "769,300,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg"
+    }, {
+        "name": "Club Atlético de Madrid",
+        "code": "ATM",
+        "shortName": "Atlético",
+        "squadMarketValue": "493,000,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg"
+    }, {
+        "name": "Deportivo Alavés",
+        "code": "ALA",
+        "shortName": "Alaves",
+        "squadMarketValue": null,
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+    }, {
+        "name": "RC Celta de Vigo",
+        "code": "CEL",
+        "shortName": "Celta Vigo",
+        "squadMarketValue": "101,100,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg"
+    }, {
+        "name": "CD Leganes",
+        "code": "LEG",
+        "shortName": "Leganes",
+        "squadMarketValue": null,
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/0/02/Club_Deportivo_Leganés.png/180px-Club_Deportivo_Leganés.png"
+    }, {
+        "name": "Valencia CF",
+        "code": "VAL",
+        "shortName": "Valencia",
+        "squadMarketValue": "193,700,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg"
+    }, {
+        "name": "UD Las Palmas",
+        "code": "PAL",
+        "shortName": "Las Palmas",
+        "squadMarketValue": "46,900,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/2/20/UD_Las_Palmas_logo.svg"
+    }]
+}

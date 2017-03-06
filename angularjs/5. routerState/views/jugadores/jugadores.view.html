@@ -1,13 +1,14 @@
 <div data-ng-controller="jugadoresController" data-ng-init="init()">
-    <h1>Jugadores</h1>
+    <h1>Jugadores del {{nombreEquipo}}</h1>
     <ul class="list-group">
         <li class="list-group-item" 
           data-ng-repeat="jugador in jugadores" 
-          data-ng-class="{'list-group-item-success' : jugador.rol === 'portero','list-group-item-info' : jugador.rol === 'medio','list-group-item-warning' : jugador.rol === 'defensa', 'list-group-item-danger' : jugador.rol === 'delantero'}">
+          data-ng-class="{'list-group-item-success' : jugador.posicion === 'Portero','list-group-item-info' : jugador.posicion === 'Mediocampista','list-group-item-warning' : jugador.posicion === 'Defensa', 'list-group-item-danger' : jugador.posicion === 'Delantero'}">
             {{jugador.nombre}}
         </li>     
     </ul>
     <cargando active="muestraCargando"></cargando>
+    <button class="btn btn-primary pull-right" data-ng-click="volver()">Volver</button>
 </div>
 
 

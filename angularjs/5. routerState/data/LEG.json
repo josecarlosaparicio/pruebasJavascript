@@ -1,0 +1,185 @@
+{
+    "equipo": "Legan\u00e9s",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 3689,
+        "posicion": "Portero",
+        "nombre": "Nereo Champagne",
+        "dorsal": 1
+    }, {
+        "id": 3197,
+        "posicion": "Portero",
+        "nombre": "Roberto Brignoli",
+        "dorsal": 1
+    }, {
+        "id": 165,
+        "posicion": "Portero",
+        "nombre": "Iago Herrer\u00edn",
+        "dorsal": 13
+    }, {
+        "id": 3661,
+        "posicion": "Portero",
+        "nombre": "Diego Barrios",
+        "dorsal": 31
+    }, {
+        "id": 3250,
+        "posicion": "Portero",
+        "nombre": "Jon Ander Serantes",
+        "dorsal": 0
+    }, {
+        "id": 437,
+        "posicion": "Defensa",
+        "nombre": "Tito",
+        "dorsal": 2
+    }, {
+        "id": 1915,
+        "posicion": "Defensa",
+        "nombre": "Unai Bustinza",
+        "dorsal": 3
+    }, {
+        "id": 1920,
+        "posicion": "Defensa",
+        "nombre": "Adri\u00e1n Mar\u00edn",
+        "dorsal": 4
+    }, {
+        "id": 3251,
+        "posicion": "Defensa",
+        "nombre": "Mart\u00edn Mantovani",
+        "dorsal": 5
+    }, {
+        "id": 1567,
+        "posicion": "Defensa",
+        "nombre": "Carl Medjani",
+        "dorsal": 12
+    }, {
+        "id": 3235,
+        "posicion": "Defensa",
+        "nombre": "Diego Rico",
+        "dorsal": 15
+    }, {
+        "id": 3252,
+        "posicion": "Defensa",
+        "nombre": "V\u00edctor D\u00edaz",
+        "dorsal": 17
+    }, {
+        "id": 692,
+        "posicion": "Defensa",
+        "nombre": "Pablo \u00cdnsua",
+        "dorsal": 18
+    }, {
+        "id": 2485,
+        "posicion": "Defensa",
+        "nombre": "Dimitrios Siovas",
+        "dorsal": 22
+    }, {
+        "id": 3662,
+        "posicion": "Defensa",
+        "nombre": "\u00c1lvaro Molina",
+        "dorsal": 27
+    }, {
+        "id": 3253,
+        "posicion": "Mediocampista",
+        "nombre": "Alberto Mart\u00edn",
+        "dorsal": 6
+    }, {
+        "id": 3156,
+        "posicion": "Mediocampista",
+        "nombre": "Gabriel Pires",
+        "dorsal": 8
+    }, {
+        "id": 181,
+        "posicion": "Mediocampista",
+        "nombre": "Toni R. Dovale",
+        "dorsal": 10
+    }, {
+        "id": 3202,
+        "posicion": "Mediocampista",
+        "nombre": "Alexander Szymanowski",
+        "dorsal": 11
+    }, {
+        "id": 693,
+        "posicion": "Mediocampista",
+        "nombre": "Erik Mor\u00e1n",
+        "dorsal": 12
+    }, {
+        "id": 929,
+        "posicion": "Mediocampista",
+        "nombre": "Samuel Garc\u00eda",
+        "dorsal": 16
+    }, {
+        "id": 1881,
+        "posicion": "Mediocampista",
+        "nombre": "Unai L\u00f3pez",
+        "dorsal": 19
+    }, {
+        "id": 153,
+        "posicion": "Mediocampista",
+        "nombre": "Rub\u00e9n P\u00e9rez",
+        "dorsal": 21
+    }, {
+        "id": 549,
+        "posicion": "Mediocampista",
+        "nombre": "Llu\u00eds Sastre",
+        "dorsal": 22
+    }, {
+        "id": 592,
+        "posicion": "Mediocampista",
+        "nombre": "Omar Ramos",
+        "dorsal": 23
+    }, {
+        "id": 428,
+        "posicion": "Mediocampista",
+        "nombre": "David Timor",
+        "dorsal": 24
+    }, {
+        "id": 305,
+        "posicion": "Mediocampista",
+        "nombre": "Nabil El Zhar",
+        "dorsal": 25
+    }, {
+        "id": 3679,
+        "posicion": "Mediocampista",
+        "nombre": "Sergio Arribas",
+        "dorsal": 28
+    }, {
+        "id": 3678,
+        "posicion": "Mediocampista",
+        "nombre": "Iu Ranera",
+        "dorsal": 29
+    }, {
+        "id": 3697,
+        "posicion": "Mediocampista",
+        "nombre": "\u00c1lex Mozo",
+        "dorsal": 32
+    }, {
+        "id": 1017,
+        "posicion": "Mediocampista",
+        "nombre": "Robert Ib\u00e1\u00f1ez",
+        "dorsal": 0
+    }, {
+        "id": 289,
+        "posicion": "Delantero",
+        "nombre": "Darwin Mach\u00eds",
+        "dorsal": 7
+    }, {
+        "id": 2033,
+        "posicion": "Delantero",
+        "nombre": "Miguel \u00c1. Guerrero",
+        "dorsal": 9
+    }, {
+        "id": 525,
+        "posicion": "Delantero",
+        "nombre": "Alberto Bueno",
+        "dorsal": 10
+    }, {
+        "id": 3258,
+        "posicion": "Delantero",
+        "nombre": "Mamadou Kon\u00e9",
+        "dorsal": 14
+    }, {
+        "id": 3257,
+        "posicion": "Delantero",
+        "nombre": "Luciano Neves",
+        "dorsal": 20
+    }]
+}

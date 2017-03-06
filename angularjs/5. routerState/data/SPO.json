@@ -1,0 +1,155 @@
+{
+    "equipo": "Sporting",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 2016,
+        "posicion": "Portero",
+        "nombre": "Iv\u00e1n Cu\u00e9llar",
+        "dorsal": 1
+    }, {
+        "id": 827,
+        "posicion": "Portero",
+        "nombre": "Diego Mari\u00f1o",
+        "dorsal": 13
+    }, {
+        "id": 3227,
+        "posicion": "Portero",
+        "nombre": "\u00d3scar Whalley",
+        "dorsal": 30
+    }, {
+        "id": 1900,
+        "posicion": "Defensa",
+        "nombre": "Douglas Pereira",
+        "dorsal": 2
+    }, {
+        "id": 1770,
+        "posicion": "Defensa",
+        "nombre": "Jean Sylvain Bab\u00edn",
+        "dorsal": 3
+    }, {
+        "id": 2023,
+        "posicion": "Defensa",
+        "nombre": "Jorge Mer\u00e9",
+        "dorsal": 4
+    }, {
+        "id": 27,
+        "posicion": "Defensa",
+        "nombre": "Fernando Amorebieta",
+        "dorsal": 5
+    }, {
+        "id": 2021,
+        "posicion": "Defensa",
+        "nombre": "Alberto Lora",
+        "dorsal": 11
+    }, {
+        "id": 1722,
+        "posicion": "Defensa",
+        "nombre": "Elderson Echiejile",
+        "dorsal": 12
+    }, {
+        "id": 1784,
+        "posicion": "Defensa",
+        "nombre": "Roberto Canella",
+        "dorsal": 15
+    }, {
+        "id": 1813,
+        "posicion": "Defensa",
+        "nombre": "Lillo Castellano",
+        "dorsal": 16
+    }, {
+        "id": 48,
+        "posicion": "Defensa",
+        "nombre": "Isma L\u00f3pez",
+        "dorsal": 18
+    }, {
+        "id": 3620,
+        "posicion": "Defensa",
+        "nombre": "Juan Rodr\u00edguez",
+        "dorsal": 29
+    }, {
+        "id": 2025,
+        "posicion": "Mediocampista",
+        "nombre": "Sergio \u00c1lvarez",
+        "dorsal": 6
+    }, {
+        "id": 620,
+        "posicion": "Mediocampista",
+        "nombre": "V\u00edctor Rodr\u00edguez",
+        "dorsal": 7
+    }, {
+        "id": 2029,
+        "posicion": "Mediocampista",
+        "nombre": "Rachid A\u00eft-Atmane",
+        "dorsal": 8
+    }, {
+        "id": 2028,
+        "posicion": "Mediocampista",
+        "nombre": "Nacho Cases",
+        "dorsal": 10
+    }, {
+        "id": 1122,
+        "posicion": "Mediocampista",
+        "nombre": "Jorge F. Burgui",
+        "dorsal": 14
+    }, {
+        "id": 2036,
+        "posicion": "Mediocampista",
+        "nombre": "Carlos Carmona",
+        "dorsal": 19
+    }, {
+        "id": 2031,
+        "posicion": "Mediocampista",
+        "nombre": "Daniel Ndi",
+        "dorsal": 20
+    }, {
+        "id": 354,
+        "posicion": "Mediocampista",
+        "nombre": "Xavi Torres",
+        "dorsal": 21
+    }, {
+        "id": 3249,
+        "posicion": "Mediocampista",
+        "nombre": "Mikel Vesga",
+        "dorsal": 22
+    }, {
+        "id": 2030,
+        "posicion": "Mediocampista",
+        "nombre": "Pablo P\u00e9rez",
+        "dorsal": 22
+    }, {
+        "id": 841,
+        "posicion": "Mediocampista",
+        "nombre": "Moi G\u00f3mez",
+        "dorsal": 23
+    }, {
+        "id": 3498,
+        "posicion": "Delantero",
+        "nombre": "Lacina Traor\u00e9",
+        "dorsal": 8
+    }, {
+        "id": 2034,
+        "posicion": "Delantero",
+        "nombre": "Carlos Castro",
+        "dorsal": 9
+    }, {
+        "id": 2809,
+        "posicion": "Delantero",
+        "nombre": "Akram Afif",
+        "dorsal": 17
+    }, {
+        "id": 2087,
+        "posicion": "Delantero",
+        "nombre": "Duje Cop",
+        "dorsal": 24
+    }, {
+        "id": 1775,
+        "posicion": "Delantero",
+        "nombre": "Borja Viguera",
+        "dorsal": 25
+    }, {
+        "id": 3682,
+        "posicion": "Delantero",
+        "nombre": "Rub\u00e9n S\u00e1nchez",
+        "dorsal": 31
+    }]
+}

@@ -1,0 +1,165 @@
+{
+    "equipo": "M\u00e1laga",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 327,
+        "posicion": "Portero",
+        "nombre": "Carlos Kameni",
+        "dorsal": 1
+    }, {
+        "id": 3264,
+        "posicion": "Portero",
+        "nombre": "Denys Boyko",
+        "dorsal": 13
+    }, {
+        "id": 1071,
+        "posicion": "Portero",
+        "nombre": "Aar\u00f3n Escandell",
+        "dorsal": 27
+    }, {
+        "id": 2637,
+        "posicion": "Defensa",
+        "nombre": "Bakary Kone",
+        "dorsal": 2
+    }, {
+        "id": 347,
+        "posicion": "Defensa",
+        "nombre": "Mart\u00edn Demichelis",
+        "dorsal": 3
+    }, {
+        "id": 3387,
+        "posicion": "Defensa",
+        "nombre": "Mikel Villanueva",
+        "dorsal": 4
+    }, {
+        "id": 707,
+        "posicion": "Defensa",
+        "nombre": "Diego Javier Llorente",
+        "dorsal": 5
+    }, {
+        "id": 154,
+        "posicion": "Defensa",
+        "nombre": "Juan Carlos P\u00e9rez",
+        "dorsal": 7
+    }, {
+        "id": 2750,
+        "posicion": "Defensa",
+        "nombre": "Federico Ricca",
+        "dorsal": 15
+    }, {
+        "id": 1794,
+        "posicion": "Defensa",
+        "nombre": "Roberto Rosales",
+        "dorsal": 18
+    }, {
+        "id": 228,
+        "posicion": "Defensa",
+        "nombre": "Miguel Torres",
+        "dorsal": 23
+    }, {
+        "id": 2019,
+        "posicion": "Defensa",
+        "nombre": "Luis Hern\u00e1ndez",
+        "dorsal": 24
+    }, {
+        "id": 3643,
+        "posicion": "Defensa",
+        "nombre": "Luis Mu\u00f1oz",
+        "dorsal": 29
+    }, {
+        "id": 346,
+        "posicion": "Defensa",
+        "nombre": "Weligton",
+        "dorsal": 0
+    }, {
+        "id": 329,
+        "posicion": "Mediocampista",
+        "nombre": "Ignacio Camacho",
+        "dorsal": 6
+    }, {
+        "id": 1885,
+        "posicion": "Mediocampista",
+        "nombre": "Juanpi A\u00f1or",
+        "dorsal": 10
+    }, {
+        "id": 475,
+        "posicion": "Mediocampista",
+        "nombre": "Chory Castro",
+        "dorsal": 11
+    }, {
+        "id": 337,
+        "posicion": "Mediocampista",
+        "nombre": "Recio",
+        "dorsal": 14
+    }, {
+        "id": 334,
+        "posicion": "Mediocampista",
+        "nombre": "Duda",
+        "dorsal": 17
+    }, {
+        "id": 2072,
+        "posicion": "Mediocampista",
+        "nombre": "Keko Gont\u00e1n",
+        "dorsal": 20
+    }, {
+        "id": 2037,
+        "posicion": "Mediocampista",
+        "nombre": "Jony Rodr\u00edguez",
+        "dorsal": 21
+    }, {
+        "id": 3167,
+        "posicion": "Mediocampista",
+        "nombre": "Zdravko Kuzmanovic",
+        "dorsal": 22
+    }, {
+        "id": 694,
+        "posicion": "Mediocampista",
+        "nombre": "Jos\u00e9 Rodr\u00edguez",
+        "dorsal": 25
+    }, {
+        "id": 3670,
+        "posicion": "Mediocampista",
+        "nombre": "Alejandro Mula",
+        "dorsal": 28
+    }, {
+        "id": 2632,
+        "posicion": "Mediocampista",
+        "nombre": "Pablo Fornals",
+        "dorsal": 31
+    }, {
+        "id": 2070,
+        "posicion": "Mediocampista",
+        "nombre": "Javi Ontiveros",
+        "dorsal": 39
+    }, {
+        "id": 3171,
+        "posicion": "Delantero",
+        "nombre": "Michael Santos",
+        "dorsal": 8
+    }, {
+        "id": 850,
+        "posicion": "Delantero",
+        "nombre": "Charles Dias",
+        "dorsal": 9
+    }, {
+        "id": 2688,
+        "posicion": "Delantero",
+        "nombre": "Adalberto Pe\u00f1aranda",
+        "dorsal": 16
+    }, {
+        "id": 1896,
+        "posicion": "Delantero",
+        "nombre": "Sandro Ram\u00edrez",
+        "dorsal": 19
+    }, {
+        "id": 3259,
+        "posicion": "Delantero",
+        "nombre": "Youssef En-Nesyri",
+        "dorsal": 26
+    }, {
+        "id": 3655,
+        "posicion": "Delantero",
+        "nombre": "Kuki Zalazar",
+        "dorsal": 0
+    }]
+}
