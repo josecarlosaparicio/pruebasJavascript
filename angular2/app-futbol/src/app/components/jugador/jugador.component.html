@@ -1,0 +1,9 @@
+<div class="list-group-item" [ngClass]="
+{
+    'list-group-item-success': jugador.isPortero(), 
+    'list-group-item-info': jugador.isMedio(), 
+    'list-group-item-warning': jugador.isDefensa(),
+    'list-group-item-danger': jugador.isDelantero()
+}">
+    {{jugador.nombre}}
+</div>

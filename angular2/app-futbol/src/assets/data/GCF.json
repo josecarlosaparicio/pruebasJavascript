@@ -1,0 +1,190 @@
+{
+    "equipo": "Granada",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 3710,
+        "posicion": "Portero",
+        "nombre": "Rui Silva",
+        "dorsal": 1
+    }, {
+        "id": 1190,
+        "posicion": "Portero",
+        "nombre": "Guillermo Ochoa",
+        "dorsal": 13
+    }, {
+        "id": 862,
+        "posicion": "Portero",
+        "nombre": "Ivan Kelava",
+        "dorsal": 25
+    }, {
+        "id": 771,
+        "posicion": "Portero",
+        "nombre": "Oier Olaz\u00e1bal",
+        "dorsal": 0
+    }, {
+        "id": 437,
+        "posicion": "Defensa",
+        "nombre": "Tito",
+        "dorsal": 2
+    }, {
+        "id": 3245,
+        "posicion": "Defensa",
+        "nombre": "Gast\u00f3n Silva",
+        "dorsal": 3
+    }, {
+        "id": 886,
+        "posicion": "Defensa",
+        "nombre": "David Lomb\u00e1n",
+        "dorsal": 6
+    }, {
+        "id": 294,
+        "posicion": "Defensa",
+        "nombre": "Gabriel Silva",
+        "dorsal": 12
+    }, {
+        "id": 3266,
+        "posicion": "Defensa",
+        "nombre": "Franck Tabanou",
+        "dorsal": 14
+    }, {
+        "id": 969,
+        "posicion": "Defensa",
+        "nombre": "R\u00faben Vezo",
+        "dorsal": 17
+    }, {
+        "id": 3216,
+        "posicion": "Defensa",
+        "nombre": "Matthieu Saunier",
+        "dorsal": 20
+    }, {
+        "id": 943,
+        "posicion": "Defensa",
+        "nombre": "Dimitri Foulquier",
+        "dorsal": 22
+    }, {
+        "id": 686,
+        "posicion": "Defensa",
+        "nombre": "H\u00e9ctor Hern\u00e1ndez",
+        "dorsal": 23
+    }, {
+        "id": 3135,
+        "posicion": "Defensa",
+        "nombre": "Sverrir Ingi Ingason",
+        "dorsal": 25
+    }, {
+        "id": 3621,
+        "posicion": "Defensa",
+        "nombre": "Martin Hongla",
+        "dorsal": 29
+    }, {
+        "id": 1909,
+        "posicion": "Defensa",
+        "nombre": "Luis Martins",
+        "dorsal": 0
+    }, {
+        "id": 279,
+        "posicion": "Mediocampista",
+        "nombre": "Fran Rico",
+        "dorsal": 4
+    }, {
+        "id": 1921,
+        "posicion": "Mediocampista",
+        "nombre": "Sergi Samper",
+        "dorsal": 4
+    }, {
+        "id": 1956,
+        "posicion": "Mediocampista",
+        "nombre": "Uche Agbo",
+        "dorsal": 5
+    }, {
+        "id": 393,
+        "posicion": "Mediocampista",
+        "nombre": "Javi M\u00e1rquez",
+        "dorsal": 8
+    }, {
+        "id": 217,
+        "posicion": "Mediocampista",
+        "nombre": "Mubarak Wakaso",
+        "dorsal": 8
+    }, {
+        "id": 3173,
+        "posicion": "Mediocampista",
+        "nombre": "J\u00e9r\u00e9mie Boga",
+        "dorsal": 10
+    }, {
+        "id": 1296,
+        "posicion": "Mediocampista",
+        "nombre": "Panagiotis Kone",
+        "dorsal": 11
+    }, {
+        "id": 3184,
+        "posicion": "Mediocampista",
+        "nombre": "Jon Toral",
+        "dorsal": 11
+    }, {
+        "id": 3263,
+        "posicion": "Mediocampista",
+        "nombre": "Omer Atzili",
+        "dorsal": 15
+    }, {
+        "id": 2239,
+        "posicion": "Mediocampista",
+        "nombre": "Mehdi Carcela-Gonz\u00e1lez",
+        "dorsal": 16
+    }, {
+        "id": 2355,
+        "posicion": "Mediocampista",
+        "nombre": "Andreas Pereira",
+        "dorsal": 18
+    }, {
+        "id": 94,
+        "posicion": "Mediocampista",
+        "nombre": "Isaac Cuenca",
+        "dorsal": 19
+    }, {
+        "id": 1965,
+        "posicion": "Mediocampista",
+        "nombre": "Ren\u00e9 Krhin",
+        "dorsal": 21
+    }, {
+        "id": 3199,
+        "posicion": "Mediocampista",
+        "nombre": "Victorien Angban",
+        "dorsal": 26
+    }, {
+        "id": 3696,
+        "posicion": "Mediocampista",
+        "nombre": "Aly Mall\u00e9",
+        "dorsal": 34
+    }, {
+        "id": 852,
+        "posicion": "Delantero",
+        "nombre": "David Barral",
+        "dorsal": 7
+    }, {
+        "id": 1634,
+        "posicion": "Delantero",
+        "nombre": "Adri\u00e1n Ramos",
+        "dorsal": 7
+    }, {
+        "id": 2727,
+        "posicion": "Delantero",
+        "nombre": "Ezequiel Ponce",
+        "dorsal": 9
+    }, {
+        "id": 525,
+        "posicion": "Delantero",
+        "nombre": "Alberto Bueno",
+        "dorsal": 23
+    }, {
+        "id": 2557,
+        "posicion": "Delantero",
+        "nombre": "Artem Kravets",
+        "dorsal": 24
+    }, {
+        "id": 3200,
+        "posicion": "Delantero",
+        "nombre": "Sergi Guardiola",
+        "dorsal": 0
+    }]
+}

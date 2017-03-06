@@ -1,0 +1,170 @@
+{
+    "equipo": "Valencia",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 120,
+        "posicion": "Portero",
+        "nombre": "Diego Alves",
+        "dorsal": 1
+    }, {
+        "id": 961,
+        "posicion": "Portero",
+        "nombre": "Jaume Dom\u00e9nech",
+        "dorsal": 13
+    }, {
+        "id": 1743,
+        "posicion": "Portero",
+        "nombre": "Mathew Ryan",
+        "dorsal": 25
+    }, {
+        "id": 1882,
+        "posicion": "Defensa",
+        "nombre": "Joao Cancelo",
+        "dorsal": 2
+    }, {
+        "id": 969,
+        "posicion": "Defensa",
+        "nombre": "R\u00faben Vezo",
+        "dorsal": 3
+    }, {
+        "id": 2137,
+        "posicion": "Defensa",
+        "nombre": "Aderllan Santos",
+        "dorsal": 4
+    }, {
+        "id": 1152,
+        "posicion": "Defensa",
+        "nombre": "Eliaquim Mangala",
+        "dorsal": 5
+    }, {
+        "id": 1766,
+        "posicion": "Defensa",
+        "nombre": "Shkodran Mustafi",
+        "dorsal": 5
+    }, {
+        "id": 270,
+        "posicion": "Defensa",
+        "nombre": "Guilherme Siqueira",
+        "dorsal": 6
+    }, {
+        "id": 663,
+        "posicion": "Defensa",
+        "nombre": "Jos\u00e9 Gay\u00e0",
+        "dorsal": 14
+    }, {
+        "id": 323,
+        "posicion": "Defensa",
+        "nombre": "Mart\u00edn Montoya",
+        "dorsal": 21
+    }, {
+        "id": 2139,
+        "posicion": "Defensa",
+        "nombre": "Aymen Abdennour",
+        "dorsal": 23
+    }, {
+        "id": 1665,
+        "posicion": "Defensa",
+        "nombre": "Ezequiel Garay",
+        "dorsal": 24
+    }, {
+        "id": 2736,
+        "posicion": "Defensa",
+        "nombre": "Antonio Lato",
+        "dorsal": 26
+    }, {
+        "id": 51,
+        "posicion": "Mediocampista",
+        "nombre": "Mario Su\u00e1rez",
+        "dorsal": 7
+    }, {
+        "id": 1672,
+        "posicion": "Mediocampista",
+        "nombre": "Enzo P\u00e9rez",
+        "dorsal": 8
+    }, {
+        "id": 137,
+        "posicion": "Mediocampista",
+        "nombre": "Dani Parejo",
+        "dorsal": 10
+    }, {
+        "id": 2067,
+        "posicion": "Mediocampista",
+        "nombre": "Zakaria Bakkali",
+        "dorsal": 11
+    }, {
+        "id": 290,
+        "posicion": "Mediocampista",
+        "nombre": "Fabi\u00e1n Orellana",
+        "dorsal": 15
+    }, {
+        "id": 931,
+        "posicion": "Mediocampista",
+        "nombre": "Fede Cartabia",
+        "dorsal": 16
+    }, {
+        "id": 2799,
+        "posicion": "Mediocampista",
+        "nombre": "Carlos Soler",
+        "dorsal": 18
+    }, {
+        "id": 1065,
+        "posicion": "Mediocampista",
+        "nombre": "\u00c1lvaro Medr\u00e1n",
+        "dorsal": 20
+    }, {
+        "id": 2810,
+        "posicion": "Mediocampista",
+        "nombre": "Sito",
+        "dorsal": 34
+    }, {
+        "id": 3716,
+        "posicion": "Mediocampista",
+        "nombre": "Eugeni Valderrama",
+        "dorsal": 39
+    }, {
+        "id": 1017,
+        "posicion": "Mediocampista",
+        "nombre": "Robert Ib\u00e1\u00f1ez",
+        "dorsal": null
+    }, {
+        "id": 141,
+        "posicion": "Delantero",
+        "nombre": "Paco Alc\u00e1cer",
+        "dorsal": 9
+    }, {
+        "id": 1895,
+        "posicion": "Delantero",
+        "nombre": "Munir El Haddadi",
+        "dorsal": 9
+    }, {
+        "id": 2412,
+        "posicion": "Delantero",
+        "nombre": "Simone Zaza",
+        "dorsal": 12
+    }, {
+        "id": 1276,
+        "posicion": "Delantero",
+        "nombre": "Luis Nani",
+        "dorsal": 17
+    }, {
+        "id": 1860,
+        "posicion": "Delantero",
+        "nombre": "Rodrigo Moreno",
+        "dorsal": 19
+    }, {
+        "id": 761,
+        "posicion": "Delantero",
+        "nombre": "Santi Mina",
+        "dorsal": 22
+    }, {
+        "id": 2687,
+        "posicion": "Delantero",
+        "nombre": "Rafa Mir",
+        "dorsal": 27
+    }, {
+        "id": 1026,
+        "posicion": "Delantero",
+        "nombre": "Vinicius Ara\u00fajo",
+        "dorsal": 0
+    }]
+}

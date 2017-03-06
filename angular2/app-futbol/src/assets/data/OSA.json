@@ -1,0 +1,170 @@
+{
+    "equipo": "Osasuna",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 3198,
+        "posicion": "Portero",
+        "nombre": "Mario Fern\u00e1ndez",
+        "dorsal": 1
+    }, {
+        "id": 3223,
+        "posicion": "Portero",
+        "nombre": "Nauzet P\u00e9rez",
+        "dorsal": 13
+    }, {
+        "id": 1498,
+        "posicion": "Portero",
+        "nombre": "Salvatore Sirigu",
+        "dorsal": 25
+    }, {
+        "id": 3651,
+        "posicion": "Portero",
+        "nombre": "Juan P\u00e9rez",
+        "dorsal": 26
+    }, {
+        "id": 3612,
+        "posicion": "Portero",
+        "nombre": "\u00c1lvaro Fern\u00e1ndez",
+        "dorsal": 27
+    }, {
+        "id": 3238,
+        "posicion": "Defensa",
+        "nombre": "Javier Fla\u00f1o",
+        "dorsal": 2
+    }, {
+        "id": 3237,
+        "posicion": "Defensa",
+        "nombre": "Tano Bonnin",
+        "dorsal": 3
+    }, {
+        "id": 415,
+        "posicion": "Defensa",
+        "nombre": "Miguel Fla\u00f1o",
+        "dorsal": 4
+    }, {
+        "id": 3236,
+        "posicion": "Defensa",
+        "nombre": "David Garc\u00eda Z.",
+        "dorsal": 5
+    }, {
+        "id": 786,
+        "posicion": "Defensa",
+        "nombre": "Unai Garc\u00eda",
+        "dorsal": 15
+    }, {
+        "id": 809,
+        "posicion": "Defensa",
+        "nombre": "Juan Fuentes",
+        "dorsal": 16
+    }, {
+        "id": 936,
+        "posicion": "Defensa",
+        "nombre": "Carlos Clerc",
+        "dorsal": 21
+    }, {
+        "id": 3709,
+        "posicion": "Defensa",
+        "nombre": "Nikola Vujadinovic",
+        "dorsal": 22
+    }, {
+        "id": 3656,
+        "posicion": "Defensa",
+        "nombre": "Iv\u00e1n M\u00e1rquez",
+        "dorsal": 33
+    }, {
+        "id": 3244,
+        "posicion": "Defensa",
+        "nombre": "Aitor Bu\u00f1uel",
+        "dorsal": 34
+    }, {
+        "id": 417,
+        "posicion": "Mediocampista",
+        "nombre": "Oier Sanjurjo",
+        "dorsal": 6
+    }, {
+        "id": 3189,
+        "posicion": "Mediocampista",
+        "nombre": "Goran Causic",
+        "dorsal": 8
+    }, {
+        "id": 426,
+        "posicion": "Mediocampista",
+        "nombre": "Roberto Torres",
+        "dorsal": 10
+    }, {
+        "id": 3204,
+        "posicion": "Mediocampista",
+        "nombre": "\u00c1lex Berenguer",
+        "dorsal": 11
+    }, {
+        "id": 765,
+        "posicion": "Mediocampista",
+        "nombre": "Fausto Tienza",
+        "dorsal": 14
+    }, {
+        "id": 278,
+        "posicion": "Mediocampista",
+        "nombre": "Jaime Romero",
+        "dorsal": 17
+    }, {
+        "id": 61,
+        "posicion": "Mediocampista",
+        "nombre": "Fran M\u00e9rida",
+        "dorsal": 18
+    }, {
+        "id": 708,
+        "posicion": "Mediocampista",
+        "nombre": "Miguel De Las Cuevas",
+        "dorsal": 20
+    }, {
+        "id": 2071,
+        "posicion": "Mediocampista",
+        "nombre": "Didier Digard",
+        "dorsal": 23
+    }, {
+        "id": 568,
+        "posicion": "Mediocampista",
+        "nombre": "Javi \u00c1lamo",
+        "dorsal": 24
+    }, {
+        "id": 425,
+        "posicion": "Mediocampista",
+        "nombre": "Raoul Lo\u00e9",
+        "dorsal": 24
+    }, {
+        "id": 3242,
+        "posicion": "Mediocampista",
+        "nombre": "Imanol Garc\u00eda",
+        "dorsal": 31
+    }, {
+        "id": 3239,
+        "posicion": "Mediocampista",
+        "nombre": "Miguel Olavide",
+        "dorsal": 35
+    }, {
+        "id": 3194,
+        "posicion": "Mediocampista",
+        "nombre": "Antonio Otegui",
+        "dorsal": 36
+    }, {
+        "id": 3256,
+        "posicion": "Delantero",
+        "nombre": "Sergio Le\u00f3n",
+        "dorsal": 7
+    }, {
+        "id": 865,
+        "posicion": "Delantero",
+        "nombre": "Oriol Riera",
+        "dorsal": 9
+    }, {
+        "id": 3262,
+        "posicion": "Delantero",
+        "nombre": "Emmanuel Rivi\u00e8re",
+        "dorsal": 12
+    }, {
+        "id": 3241,
+        "posicion": "Delantero",
+        "nombre": "Kenan Kodro",
+        "dorsal": 19
+    }]
+}

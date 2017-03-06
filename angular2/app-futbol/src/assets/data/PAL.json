@@ -1,0 +1,155 @@
+{
+    "equipo": "Las Palmas",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 2039,
+        "posicion": "Portero",
+        "nombre": "Ra\u00fal Lizoain",
+        "dorsal": 1
+    }, {
+        "id": 190,
+        "posicion": "Portero",
+        "nombre": "Javi Varas",
+        "dorsal": 13
+    }, {
+        "id": 2042,
+        "posicion": "Defensa",
+        "nombre": "David Sim\u00f3n",
+        "dorsal": 2
+    }, {
+        "id": 2743,
+        "posicion": "Defensa",
+        "nombre": "Mauricio Lemos",
+        "dorsal": 3
+    }, {
+        "id": 2040,
+        "posicion": "Defensa",
+        "nombre": "David Garc\u00eda",
+        "dorsal": 5
+    }, {
+        "id": 883,
+        "posicion": "Defensa",
+        "nombre": "Michel Macedo",
+        "dorsal": 12
+    }, {
+        "id": 102,
+        "posicion": "Defensa",
+        "nombre": "Aythami Artiles",
+        "dorsal": 16
+    }, {
+        "id": 404,
+        "posicion": "Defensa",
+        "nombre": "Pedro Bigas",
+        "dorsal": 17
+    }, {
+        "id": 2813,
+        "posicion": "Defensa",
+        "nombre": "H\u00e9lder Lopes",
+        "dorsal": 22
+    }, {
+        "id": 2048,
+        "posicion": "Defensa",
+        "nombre": "Dani Castellano",
+        "dorsal": 23
+    }, {
+        "id": 3702,
+        "posicion": "Defensa",
+        "nombre": "Eric Curbelo",
+        "dorsal": 27
+    }, {
+        "id": 2043,
+        "posicion": "Mediocampista",
+        "nombre": "Vicente G\u00f3mez",
+        "dorsal": 4
+    }, {
+        "id": 2742,
+        "posicion": "Mediocampista",
+        "nombre": "\u00c1ngel Montoro",
+        "dorsal": 6
+    }, {
+        "id": 1477,
+        "posicion": "Mediocampista",
+        "nombre": "Kevin-Prince Boateng",
+        "dorsal": 7
+    }, {
+        "id": 305,
+        "posicion": "Mediocampista",
+        "nombre": "Nabil El Zhar",
+        "dorsal": 8
+    }, {
+        "id": 2047,
+        "posicion": "Mediocampista",
+        "nombre": "Momo Figueroa",
+        "dorsal": 11
+    }, {
+        "id": 2045,
+        "posicion": "Mediocampista",
+        "nombre": "Hern\u00e1n Santana",
+        "dorsal": 14
+    }, {
+        "id": 2046,
+        "posicion": "Mediocampista",
+        "nombre": "Roque Mesa",
+        "dorsal": 15
+    }, {
+        "id": 2044,
+        "posicion": "Mediocampista",
+        "nombre": "Javi Castellano",
+        "dorsal": 18
+    }, {
+        "id": 3221,
+        "posicion": "Mediocampista",
+        "nombre": "Mateo Garc\u00eda",
+        "dorsal": 19
+    }, {
+        "id": 2057,
+        "posicion": "Mediocampista",
+        "nombre": "Tyronne Del Pino",
+        "dorsal": 20
+    }, {
+        "id": 2126,
+        "posicion": "Mediocampista",
+        "nombre": "Alen Halilovic",
+        "dorsal": 20
+    }, {
+        "id": 133,
+        "posicion": "Mediocampista",
+        "nombre": "Jonathan Viera",
+        "dorsal": 21
+    }, {
+        "id": 2050,
+        "posicion": "Mediocampista",
+        "nombre": "Tana Dom\u00ednguez",
+        "dorsal": 24
+    }, {
+        "id": 3704,
+        "posicion": "Mediocampista",
+        "nombre": "Benito Ram\u00edrez",
+        "dorsal": 28
+    }, {
+        "id": 3191,
+        "posicion": "Delantero",
+        "nombre": "Marko Livaja",
+        "dorsal": 9
+    }, {
+        "id": 2054,
+        "posicion": "Delantero",
+        "nombre": "Sergio Araujo",
+        "dorsal": 10
+    }, {
+        "id": 932,
+        "posicion": "Delantero",
+        "nombre": "Jes\u00e9 Rodr\u00edguez",
+        "dorsal": 10
+    }, {
+        "id": 2053,
+        "posicion": "Delantero",
+        "nombre": "Asdr\u00fabal Padr\u00f3n",
+        "dorsal": 25
+    }, {
+        "id": 3703,
+        "posicion": "Delantero",
+        "nombre": "Erik Exp\u00f3sito",
+        "dorsal": 29
+    }]
+}

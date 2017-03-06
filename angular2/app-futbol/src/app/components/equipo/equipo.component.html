@@ -1,0 +1,12 @@
+<div class="panel panel-default">
+    <div class="panel-heading" (click)="activeEquipo()">
+        <h4 class="panel-title">{{equipo.nombre}} [{{equipo.id}}]</h4>
+    </div>
+    <div class="panel-collapse collapse" [ngClass]="{ 'in' : equipo.getId() === getEquipoSelected() }" >
+        <div class="panel-body">
+            <div class="list-group">
+                <jugador *ngFor="let jugador of equipo.jugadores" [jugador]="jugador"></jugador>    
+            </div>
+        </div>
+    </div>
+</div>

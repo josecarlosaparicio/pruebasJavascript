@@ -1,0 +1,145 @@
+{
+    "equipo": "Real Sociedad",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 1861,
+        "posicion": "Portero",
+        "nombre": "Ger\u00f3nimo Rulli",
+        "dorsal": 1
+    }, {
+        "id": 1908,
+        "posicion": "Portero",
+        "nombre": "Ander Bardaj\u00ed",
+        "dorsal": 13
+    }, {
+        "id": 3162,
+        "posicion": "Portero",
+        "nombre": "To\u00f1o Ram\u00edrez",
+        "dorsal": 25
+    }, {
+        "id": 460,
+        "posicion": "Defensa",
+        "nombre": "Carlos Mart\u00ednez",
+        "dorsal": 2
+    }, {
+        "id": 461,
+        "posicion": "Defensa",
+        "nombre": "Mikel Gonz\u00e1lez",
+        "dorsal": 3
+    }, {
+        "id": 464,
+        "posicion": "Defensa",
+        "nombre": "\u00cd\u00f1igo Mart\u00ednez",
+        "dorsal": 6
+    }, {
+        "id": 1940,
+        "posicion": "Defensa",
+        "nombre": "Aritz Elustondo",
+        "dorsal": 15
+    }, {
+        "id": 735,
+        "posicion": "Defensa",
+        "nombre": "Yuri Berchiche",
+        "dorsal": 19
+    }, {
+        "id": 949,
+        "posicion": "Defensa",
+        "nombre": "Joseba Zaldua",
+        "dorsal": 20
+    }, {
+        "id": 686,
+        "posicion": "Defensa",
+        "nombre": "H\u00e9ctor Hern\u00e1ndez",
+        "dorsal": 21
+    }, {
+        "id": 1804,
+        "posicion": "Defensa",
+        "nombre": "Ra\u00fal Navas",
+        "dorsal": 22
+    }, {
+        "id": 3619,
+        "posicion": "Defensa",
+        "nombre": "Kevin Rodrigues",
+        "dorsal": 32
+    }, {
+        "id": 2807,
+        "posicion": "Defensa",
+        "nombre": "\u00c1lvaro Odriozola",
+        "dorsal": 0
+    }, {
+        "id": 477,
+        "posicion": "Mediocampista",
+        "nombre": "Asier Illarramendi",
+        "dorsal": 4
+    }, {
+        "id": 463,
+        "posicion": "Mediocampista",
+        "nombre": "Markel Bergara",
+        "dorsal": 5
+    }, {
+        "id": 11,
+        "posicion": "Mediocampista",
+        "nombre": "Esteban Granero",
+        "dorsal": 8
+    }, {
+        "id": 468,
+        "posicion": "Mediocampista",
+        "nombre": "Xabi Prieto",
+        "dorsal": 10
+    }, {
+        "id": 481,
+        "posicion": "Mediocampista",
+        "nombre": "Rub\u00e9n Pardo",
+        "dorsal": 14
+    }, {
+        "id": 132,
+        "posicion": "Mediocampista",
+        "nombre": "Sergio Canales",
+        "dorsal": 16
+    }, {
+        "id": 474,
+        "posicion": "Mediocampista",
+        "nombre": "David Zurutuza",
+        "dorsal": 17
+    }, {
+        "id": 2675,
+        "posicion": "Mediocampista",
+        "nombre": "Mikel Oyarzabal",
+        "dorsal": 18
+    }, {
+        "id": 927,
+        "posicion": "Mediocampista",
+        "nombre": "Jon Gazta\u00f1aga",
+        "dorsal": 23
+    }, {
+        "id": 2068,
+        "posicion": "Mediocampista",
+        "nombre": "David Concha",
+        "dorsal": 24
+    }, {
+        "id": 2802,
+        "posicion": "Mediocampista",
+        "nombre": "Igor Zubeldia",
+        "dorsal": 27
+    }, {
+        "id": 340,
+        "posicion": "Delantero",
+        "nombre": "Juanmi Jim\u00e9nez",
+        "dorsal": 7
+    }, {
+        "id": 469,
+        "posicion": "Delantero",
+        "nombre": "Carlos Vela",
+        "dorsal": 11
+    }, {
+        "id": 1066,
+        "posicion": "Delantero",
+        "nombre": "Willian Jos\u00e9",
+        "dorsal": 12
+    }, {
+        "id": 2785,
+        "posicion": "Delantero",
+        "nombre": "Jon Bautista",
+        "dorsal": 26
+    }]
+}

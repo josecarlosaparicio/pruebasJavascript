@@ -1,0 +1,140 @@
+{
+    "equipo": "Eibar",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 176,
+        "posicion": "Portero",
+        "nombre": "Yoel Rodr\u00edguez",
+        "dorsal": 1
+    }, {
+        "id": 408,
+        "posicion": "Portero",
+        "nombre": "Asier Riesgo",
+        "dorsal": 13
+    }, {
+        "id": 3680,
+        "posicion": "Portero",
+        "nombre": "Quique Cebri\u00e1",
+        "dorsal": 27
+    }, {
+        "id": 3611,
+        "posicion": "Portero",
+        "nombre": "Markel Areitio",
+        "dorsal": 30
+    }, {
+        "id": 442,
+        "posicion": "Defensa",
+        "nombre": "\u00c1lex G\u00e1lvez",
+        "dorsal": 3
+    }, {
+        "id": 389,
+        "posicion": "Defensa",
+        "nombre": "Iv\u00e1n Ramis",
+        "dorsal": 4
+    }, {
+        "id": 1814,
+        "posicion": "Defensa",
+        "nombre": "Ander Capa",
+        "dorsal": 7
+    }, {
+        "id": 1857,
+        "posicion": "Defensa",
+        "nombre": "Mauro Dos Santos",
+        "dorsal": 15
+    }, {
+        "id": 736,
+        "posicion": "Defensa",
+        "nombre": "Anaitz Arbilla",
+        "dorsal": 18
+    }, {
+        "id": 509,
+        "posicion": "Defensa",
+        "nombre": "Antonio Luna",
+        "dorsal": 19
+    }, {
+        "id": 863,
+        "posicion": "Defensa",
+        "nombre": "Florian Lejeune",
+        "dorsal": 20
+    }, {
+        "id": 2096,
+        "posicion": "Defensa",
+        "nombre": "David Junc\u00e0",
+        "dorsal": 23
+    }, {
+        "id": 2088,
+        "posicion": "Mediocampista",
+        "nombre": "Gonzalo Escalante",
+        "dorsal": 5
+    }, {
+        "id": 3168,
+        "posicion": "Mediocampista",
+        "nombre": "Christian Rivera",
+        "dorsal": 6
+    }, {
+        "id": 2135,
+        "posicion": "Mediocampista",
+        "nombre": "Takashi Inui",
+        "dorsal": 8
+    }, {
+        "id": 186,
+        "posicion": "Mediocampista",
+        "nombre": "Jota Peleteiro",
+        "dorsal": 10
+    }, {
+        "id": 612,
+        "posicion": "Mediocampista",
+        "nombre": "Rub\u00e9n Pe\u00f1a",
+        "dorsal": 11
+    }, {
+        "id": 1783,
+        "posicion": "Mediocampista",
+        "nombre": "Dani Garc\u00eda",
+        "dorsal": 14
+    }, {
+        "id": 279,
+        "posicion": "Mediocampista",
+        "nombre": "Fran Rico",
+        "dorsal": 16
+    }, {
+        "id": 235,
+        "posicion": "Mediocampista",
+        "nombre": "Pedro Le\u00f3n",
+        "dorsal": 21
+    }, {
+        "id": 452,
+        "posicion": "Mediocampista",
+        "nombre": "Adri\u00e1n Gonz\u00e1lez",
+        "dorsal": 24
+    }, {
+        "id": 3700,
+        "posicion": "Mediocampista",
+        "nombre": "Josu\u00e9 Dorrio",
+        "dorsal": 29
+    }, {
+        "id": 3694,
+        "posicion": "Mediocampista",
+        "nombre": "Imanol Sarriegi",
+        "dorsal": 32
+    }, {
+        "id": 399,
+        "posicion": "Delantero",
+        "nombre": "Sergi Enrich",
+        "dorsal": 9
+    }, {
+        "id": 2751,
+        "posicion": "Delantero",
+        "nombre": "Kike Garc\u00eda",
+        "dorsal": 17
+    }, {
+        "id": 3261,
+        "posicion": "Delantero",
+        "nombre": "Nano Mesa",
+        "dorsal": 22
+    }, {
+        "id": 1949,
+        "posicion": "Delantero",
+        "nombre": "Beb\u00e9",
+        "dorsal": 25
+    }]
+}
