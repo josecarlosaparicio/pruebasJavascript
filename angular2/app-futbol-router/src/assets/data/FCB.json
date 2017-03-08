@@ -1,0 +1,155 @@
+{
+    "equipo": "Barcelona",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 1263,
+        "posicion": "Portero",
+        "nombre": "Marc-Andr\u00e9 ter Stegen",
+        "dorsal": 1
+    }, {
+        "id": 1379,
+        "posicion": "Portero",
+        "nombre": "Jasper Cillessen",
+        "dorsal": 13
+    }, {
+        "id": 459,
+        "posicion": "Portero",
+        "nombre": "Claudio Bravo",
+        "dorsal": 13
+    }, {
+        "id": 766,
+        "posicion": "Portero",
+        "nombre": "Jordi Masip",
+        "dorsal": 25
+    }, {
+        "id": 1900,
+        "posicion": "Defensa",
+        "nombre": "Douglas Pereira",
+        "dorsal": 2
+    }, {
+        "id": 77,
+        "posicion": "Defensa",
+        "nombre": "Gerard Piqu\u00e9",
+        "dorsal": 3
+    }, {
+        "id": 87,
+        "posicion": "Defensa",
+        "nombre": "Javier Mascherano",
+        "dorsal": 14
+    }, {
+        "id": 90,
+        "posicion": "Defensa",
+        "nombre": "Jordi Alba",
+        "dorsal": 18
+    }, {
+        "id": 1156,
+        "posicion": "Defensa",
+        "nombre": "Lucas Digne",
+        "dorsal": 19
+    }, {
+        "id": 609,
+        "posicion": "Defensa",
+        "nombre": "Sergi Roberto",
+        "dorsal": 20
+    }, {
+        "id": 878,
+        "posicion": "Defensa",
+        "nombre": "Aleix Vidal",
+        "dorsal": 22
+    }, {
+        "id": 2617,
+        "posicion": "Defensa",
+        "nombre": "Samuel Umtiti",
+        "dorsal": 23
+    }, {
+        "id": 138,
+        "posicion": "Defensa",
+        "nombre": "Jeremy Mathieu",
+        "dorsal": 24
+    }, {
+        "id": 2720,
+        "posicion": "Defensa",
+        "nombre": "Nili Perdomo",
+        "dorsal": 31
+    }, {
+        "id": 3645,
+        "posicion": "Defensa",
+        "nombre": "Marlon Santos",
+        "dorsal": 33
+    }, {
+        "id": 491,
+        "posicion": "Mediocampista",
+        "nombre": "Ivan Rakitic",
+        "dorsal": 4
+    }, {
+        "id": 88,
+        "posicion": "Mediocampista",
+        "nombre": "Sergio Busquets",
+        "dorsal": 5
+    }, {
+        "id": 1778,
+        "posicion": "Mediocampista",
+        "nombre": "Denis Su\u00e1rez",
+        "dorsal": 6
+    }, {
+        "id": 57,
+        "posicion": "Mediocampista",
+        "nombre": "Arda Turan",
+        "dorsal": 7
+    }, {
+        "id": 82,
+        "posicion": "Mediocampista",
+        "nombre": "Andr\u00e9s Iniesta",
+        "dorsal": 8
+    }, {
+        "id": 895,
+        "posicion": "Mediocampista",
+        "nombre": "Rafinha Alc\u00e1ntara",
+        "dorsal": 12
+    }, {
+        "id": 1827,
+        "posicion": "Mediocampista",
+        "nombre": "Andr\u00e9 Gomes",
+        "dorsal": 21
+    }, {
+        "id": 2677,
+        "posicion": "Mediocampista",
+        "nombre": "Wilfrid Kaptoum",
+        "dorsal": 27
+    }, {
+        "id": 2759,
+        "posicion": "Mediocampista",
+        "nombre": "Carles Ale\u00f1\u00e1",
+        "dorsal": 28
+    }, {
+        "id": 1921,
+        "posicion": "Mediocampista",
+        "nombre": "Sergi Samper",
+        "dorsal": 0
+    }, {
+        "id": 1301,
+        "posicion": "Delantero",
+        "nombre": "Luis Su\u00e1rez",
+        "dorsal": 9
+    }, {
+        "id": 84,
+        "posicion": "Delantero",
+        "nombre": "Lionel Messi",
+        "dorsal": 10
+    }, {
+        "id": 789,
+        "posicion": "Delantero",
+        "nombre": "Neymar",
+        "dorsal": 11
+    }, {
+        "id": 141,
+        "posicion": "Delantero",
+        "nombre": "Paco Alc\u00e1cer",
+        "dorsal": 17
+    }, {
+        "id": 1895,
+        "posicion": "Delantero",
+        "nombre": "Munir El Haddadi",
+        "dorsal": 17
+    }]
+}

@@ -1,0 +1,135 @@
+{
+    "equipo": "Deportivo",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 105,
+        "posicion": "Portero",
+        "nombre": "Germ\u00e1n Lux",
+        "dorsal": 1
+    }, {
+        "id": 1790,
+        "posicion": "Portero",
+        "nombre": "Przemyslaw Tyton",
+        "dorsal": 13
+    }, {
+        "id": 801,
+        "posicion": "Defensa",
+        "nombre": "Juanfran Moreno",
+        "dorsal": 2
+    }, {
+        "id": 510,
+        "posicion": "Defensa",
+        "nombre": "Fernando Navarro",
+        "dorsal": 3
+    }, {
+        "id": 1812,
+        "posicion": "Defensa",
+        "nombre": "Ra\u00fal Albentosa",
+        "dorsal": 6
+    }, {
+        "id": 909,
+        "posicion": "Defensa",
+        "nombre": "Sidnei",
+        "dorsal": 12
+    }, {
+        "id": 410,
+        "posicion": "Defensa",
+        "nombre": "Alejandro Arribas",
+        "dorsal": 14
+    }, {
+        "id": 106,
+        "posicion": "Defensa",
+        "nombre": "Laure Sanabria",
+        "dorsal": 15
+    }, {
+        "id": 1799,
+        "posicion": "Defensa",
+        "nombre": "Luisinho",
+        "dorsal": 16
+    }, {
+        "id": 113,
+        "posicion": "Mediocampista",
+        "nombre": "\u00c1lex Berganti\u00f1os",
+        "dorsal": 4
+    }, {
+        "id": 728,
+        "posicion": "Mediocampista",
+        "nombre": "Pedro Mosquera",
+        "dorsal": 5
+    }, {
+        "id": 2367,
+        "posicion": "Mediocampista",
+        "nombre": "Emre \u00c7olak",
+        "dorsal": 8
+    }, {
+        "id": 804,
+        "posicion": "Mediocampista",
+        "nombre": "Carles Gil",
+        "dorsal": 11
+    }, {
+        "id": 3161,
+        "posicion": "Mediocampista",
+        "nombre": "Borja Valle",
+        "dorsal": 17
+    }, {
+        "id": 1781,
+        "posicion": "Mediocampista",
+        "nombre": "Fay\u00e7al Fajr",
+        "dorsal": 19
+    }, {
+        "id": 3192,
+        "posicion": "Mediocampista",
+        "nombre": "Guilherme Dos Santos",
+        "dorsal": 20
+    }, {
+        "id": 107,
+        "posicion": "Mediocampista",
+        "nombre": "Bruno Gama",
+        "dorsal": 21
+    }, {
+        "id": 1361,
+        "posicion": "Mediocampista",
+        "nombre": "Celso Borges",
+        "dorsal": 22
+    }, {
+        "id": 1866,
+        "posicion": "Mediocampista",
+        "nombre": "Gael Kakuta",
+        "dorsal": 23
+    }, {
+        "id": 3695,
+        "posicion": "Mediocampista",
+        "nombre": "Ola John",
+        "dorsal": 24
+    }, {
+        "id": 3268,
+        "posicion": "Delantero",
+        "nombre": "Joselu Sanmart\u00edn",
+        "dorsal": 7
+    }, {
+        "id": 1830,
+        "posicion": "Delantero",
+        "nombre": "Lucas P\u00e9rez",
+        "dorsal": 7
+    }, {
+        "id": 3222,
+        "posicion": "Delantero",
+        "nombre": "Marlos Moreno",
+        "dorsal": 9
+    }, {
+        "id": 1932,
+        "posicion": "Delantero",
+        "nombre": "Flor\u00edn Andone",
+        "dorsal": 10
+    }, {
+        "id": 3581,
+        "posicion": "Delantero",
+        "nombre": "Ryan Babel",
+        "dorsal": 23
+    }, {
+        "id": 2701,
+        "posicion": "Delantero",
+        "nombre": "\u00d3scar Pinchi",
+        "dorsal": 28
+    }]
+}

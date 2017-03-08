@@ -1,0 +1,145 @@
+{
+    "equipo": "Betis",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 436,
+        "posicion": "Portero",
+        "nombre": "Dani Gim\u00e9nez",
+        "dorsal": 1
+    }, {
+        "id": 13,
+        "posicion": "Portero",
+        "nombre": "Antonio Ad\u00e1n",
+        "dorsal": 13
+    }, {
+        "id": 811,
+        "posicion": "Portero",
+        "nombre": "Manu Herrera",
+        "dorsal": 25
+    }, {
+        "id": 3228,
+        "posicion": "Defensa",
+        "nombre": "Rafa Navarro",
+        "dorsal": 2
+    }, {
+        "id": 296,
+        "posicion": "Defensa",
+        "nombre": "\u00c1lex Mart\u00ednez",
+        "dorsal": 3
+    }, {
+        "id": 2002,
+        "posicion": "Defensa",
+        "nombre": "Bruno Gonz\u00e1lez",
+        "dorsal": 4
+    }, {
+        "id": 2001,
+        "posicion": "Defensa",
+        "nombre": "Cristiano Piccini",
+        "dorsal": 12
+    }, {
+        "id": 2812,
+        "posicion": "Defensa",
+        "nombre": "Riza Durmisi",
+        "dorsal": 14
+    }, {
+        "id": 2079,
+        "posicion": "Defensa",
+        "nombre": "Germ\u00e1n Pezzella",
+        "dorsal": 20
+    }, {
+        "id": 3706,
+        "posicion": "Defensa",
+        "nombre": "Alin Tosca",
+        "dorsal": 21
+    }, {
+        "id": 1566,
+        "posicion": "Defensa",
+        "nombre": "Aissa Mandi",
+        "dorsal": 23
+    }, {
+        "id": 1057,
+        "posicion": "Defensa",
+        "nombre": "Jos\u00e9 Carlos Ram\u00edrez",
+        "dorsal": 28
+    }, {
+        "id": 2062,
+        "posicion": "Mediocampista",
+        "nombre": "Petros Matheus",
+        "dorsal": 5
+    }, {
+        "id": 1493,
+        "posicion": "Mediocampista",
+        "nombre": "Felipe Guti\u00e9rrez",
+        "dorsal": 6
+    }, {
+        "id": 2746,
+        "posicion": "Mediocampista",
+        "nombre": "Charly Musonda Jr",
+        "dorsal": 7
+    }, {
+        "id": 481,
+        "posicion": "Mediocampista",
+        "nombre": "Rub\u00e9n Pardo",
+        "dorsal": 7
+    }, {
+        "id": 2839,
+        "posicion": "Mediocampista",
+        "nombre": "Jonas Martin",
+        "dorsal": 8
+    }, {
+        "id": 1062,
+        "posicion": "Mediocampista",
+        "nombre": "Dani Ceballos",
+        "dorsal": 10
+    }, {
+        "id": 997,
+        "posicion": "Mediocampista",
+        "nombre": "Nahuel Leiva",
+        "dorsal": 11
+    }, {
+        "id": 3267,
+        "posicion": "Mediocampista",
+        "nombre": "Ryan Donk",
+        "dorsal": 15
+    }, {
+        "id": 420,
+        "posicion": "Mediocampista",
+        "nombre": "\u00c1lvaro Cejudo",
+        "dorsal": 16
+    }, {
+        "id": 330,
+        "posicion": "Mediocampista",
+        "nombre": "Joaqu\u00edn S\u00e1nchez",
+        "dorsal": 17
+    }, {
+        "id": 2100,
+        "posicion": "Mediocampista",
+        "nombre": "Fabi\u00e1n Ruiz",
+        "dorsal": 21
+    }, {
+        "id": 3260,
+        "posicion": "Mediocampista",
+        "nombre": "Darko Brasanac",
+        "dorsal": 22
+    }, {
+        "id": 2109,
+        "posicion": "Delantero",
+        "nombre": "Antonio Sanabria",
+        "dorsal": 9
+    }, {
+        "id": 3016,
+        "posicion": "Delantero",
+        "nombre": "Roman Zozulya",
+        "dorsal": 18
+    }, {
+        "id": 2829,
+        "posicion": "Delantero",
+        "nombre": "\u00c1lex Alegr\u00eda",
+        "dorsal": 19
+    }, {
+        "id": 164,
+        "posicion": "Delantero",
+        "nombre": "Rub\u00e9n Castro",
+        "dorsal": 24
+    }]
+}

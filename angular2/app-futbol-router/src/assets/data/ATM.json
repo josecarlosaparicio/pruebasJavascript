@@ -1,0 +1,140 @@
+{
+    "equipo": "Atl\u00e9tico",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 220,
+        "posicion": "Portero",
+        "nombre": "Miguel \u00c1ngel Moy\u00e0",
+        "dorsal": 1
+    }, {
+        "id": 1826,
+        "posicion": "Portero",
+        "nombre": "Jan Oblak",
+        "dorsal": 13
+    }, {
+        "id": 3154,
+        "posicion": "Portero",
+        "nombre": "Andr\u00e9 Moreira",
+        "dorsal": 25
+    }, {
+        "id": 1977,
+        "posicion": "Portero",
+        "nombre": "Bernab\u00e9 Barrag\u00e1n",
+        "dorsal": 26
+    }, {
+        "id": 50,
+        "posicion": "Defensa",
+        "nombre": "Diego God\u00edn",
+        "dorsal": 2
+    }, {
+        "id": 53,
+        "posicion": "Defensa",
+        "nombre": "Filipe Luis",
+        "dorsal": 3
+    }, {
+        "id": 2090,
+        "posicion": "Defensa",
+        "nombre": "Stefan Savic",
+        "dorsal": 15
+    }, {
+        "id": 1426,
+        "posicion": "Defensa",
+        "nombre": "\u0160ime Vrsaljko",
+        "dorsal": 16
+    }, {
+        "id": 971,
+        "posicion": "Defensa",
+        "nombre": "Lucas Hern\u00e1ndez",
+        "dorsal": 19
+    }, {
+        "id": 64,
+        "posicion": "Defensa",
+        "nombre": "Juanfran Torres",
+        "dorsal": 20
+    }, {
+        "id": 775,
+        "posicion": "Defensa",
+        "nombre": "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+        "dorsal": 24
+    }, {
+        "id": 52,
+        "posicion": "Mediocampista",
+        "nombre": "Tiago Mendes",
+        "dorsal": 5
+    }, {
+        "id": 63,
+        "posicion": "Mediocampista",
+        "nombre": "Koke Resurrecci\u00f3n",
+        "dorsal": 6
+    }, {
+        "id": 670,
+        "posicion": "Mediocampista",
+        "nombre": "Sa\u00fal \u00d1\u00edguez",
+        "dorsal": 8
+    }, {
+        "id": 2078,
+        "posicion": "Mediocampista",
+        "nombre": "Yannick F. Carrasco",
+        "dorsal": 10
+    }, {
+        "id": 591,
+        "posicion": "Mediocampista",
+        "nombre": "Augusto Fern\u00e1ndez",
+        "dorsal": 12
+    }, {
+        "id": 60,
+        "posicion": "Mediocampista",
+        "nombre": "Gabi Fern\u00e1ndez",
+        "dorsal": 14
+    }, {
+        "id": 767,
+        "posicion": "Mediocampista",
+        "nombre": "Thomas Teye",
+        "dorsal": 22
+    }, {
+        "id": 2238,
+        "posicion": "Mediocampista",
+        "nombre": "Nicol\u00e1s Gait\u00e1n",
+        "dorsal": 23
+    }, {
+        "id": 3664,
+        "posicion": "Mediocampista",
+        "nombre": "Caio Henrique",
+        "dorsal": 27
+    }, {
+        "id": 3666,
+        "posicion": "Mediocampista",
+        "nombre": "Juan Moreno",
+        "dorsal": 39
+    }, {
+        "id": 3665,
+        "posicion": "Mediocampista",
+        "nombre": "Keidi Bare",
+        "dorsal": 44
+    }, {
+        "id": 3715,
+        "posicion": "Mediocampista",
+        "nombre": "Toni Moya",
+        "dorsal": 46
+    }, {
+        "id": 465,
+        "posicion": "Delantero",
+        "nombre": "Antoine Griezmann",
+        "dorsal": 7
+    }, {
+        "id": 1378,
+        "posicion": "Delantero",
+        "nombre": "Fernando Torres",
+        "dorsal": 9
+    }, {
+        "id": 1339,
+        "posicion": "Delantero",
+        "nombre": "\u00c1ngel Correa",
+        "dorsal": 11
+    }, {
+        "id": 903,
+        "posicion": "Delantero",
+        "nombre": "Kevin Gameiro",
+        "dorsal": 21
+    }]
+}

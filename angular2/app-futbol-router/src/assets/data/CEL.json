@@ -1,0 +1,140 @@
+{
+    "equipo": "Celta",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 167,
+        "posicion": "Portero",
+        "nombre": "Sergio \u00c1lvarez",
+        "dorsal": 1
+    }, {
+        "id": 188,
+        "posicion": "Portero",
+        "nombre": "Rub\u00e9n Blanco",
+        "dorsal": 13
+    }, {
+        "id": 3255,
+        "posicion": "Portero",
+        "nombre": "Iv\u00e1n Villar",
+        "dorsal": 27
+    }, {
+        "id": 168,
+        "posicion": "Defensa",
+        "nombre": "Hugo Mallo",
+        "dorsal": 2
+    }, {
+        "id": 95,
+        "posicion": "Defensa",
+        "nombre": "Andreu Font\u00e0s",
+        "dorsal": 3
+    }, {
+        "id": 935,
+        "posicion": "Defensa",
+        "nombre": "David Costas",
+        "dorsal": 4
+    }, {
+        "id": 3172,
+        "posicion": "Defensa",
+        "nombre": "\u00c1lvaro Lemos",
+        "dorsal": 15
+    }, {
+        "id": 189,
+        "posicion": "Defensa",
+        "nombre": "Jonny Castro",
+        "dorsal": 19
+    }, {
+        "id": 1787,
+        "posicion": "Defensa",
+        "nombre": "Sergi G\u00f3mez",
+        "dorsal": 20
+    }, {
+        "id": 1791,
+        "posicion": "Defensa",
+        "nombre": "Carles Planas",
+        "dorsal": 21
+    }, {
+        "id": 192,
+        "posicion": "Defensa",
+        "nombre": "Gustavo Cabral",
+        "dorsal": 22
+    }, {
+        "id": 3182,
+        "posicion": "Defensa",
+        "nombre": "Facundo Roncaglia",
+        "dorsal": 24
+    }, {
+        "id": 1953,
+        "posicion": "Mediocampista",
+        "nombre": "Pape Cheik Diop",
+        "dorsal": 4
+    }, {
+        "id": 1491,
+        "posicion": "Mediocampista",
+        "nombre": "Marcelo D\u00edaz",
+        "dorsal": 5
+    }, {
+        "id": 1875,
+        "posicion": "Mediocampista",
+        "nombre": "Nemanja Radoja",
+        "dorsal": 6
+    }, {
+        "id": 1780,
+        "posicion": "Mediocampista",
+        "nombre": "Pablo Hern\u00e1ndez",
+        "dorsal": 8
+    }, {
+        "id": 290,
+        "posicion": "Mediocampista",
+        "nombre": "Fabi\u00e1n Orellana",
+        "dorsal": 14
+    }, {
+        "id": 1779,
+        "posicion": "Mediocampista",
+        "nombre": "Jozabed S\u00e1nchez",
+        "dorsal": 16
+    }, {
+        "id": 3713,
+        "posicion": "Mediocampista",
+        "nombre": "Andrew Hjulsager",
+        "dorsal": 17
+    }, {
+        "id": 2059,
+        "posicion": "Mediocampista",
+        "nombre": "Daniel Wass",
+        "dorsal": 18
+    }, {
+        "id": 2097,
+        "posicion": "Mediocampista",
+        "nombre": "Josep Se\u00f1\u00e9",
+        "dorsal": 23
+    }, {
+        "id": 1950,
+        "posicion": "Delantero",
+        "nombre": "Th\u00e9o Bongonda",
+        "dorsal": 7
+    }, {
+        "id": 2081,
+        "posicion": "Delantero",
+        "nombre": "John Guidetti",
+        "dorsal": 9
+    }, {
+        "id": 175,
+        "posicion": "Delantero",
+        "nombre": "Iago Aspas",
+        "dorsal": 10
+    }, {
+        "id": 3211,
+        "posicion": "Delantero",
+        "nombre": "Pione Sisto",
+        "dorsal": 11
+    }, {
+        "id": 3157,
+        "posicion": "Delantero",
+        "nombre": "Jos\u00e9 Naranjo",
+        "dorsal": 17
+    }, {
+        "id": 2739,
+        "posicion": "Delantero",
+        "nombre": "Giuseppe Rossi",
+        "dorsal": 25
+    }]
+}

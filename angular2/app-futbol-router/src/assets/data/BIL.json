@@ -1,0 +1,145 @@
+{
+    "equipo": "Athletic",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 24,
+        "posicion": "Portero",
+        "nombre": "Gorka Iraizoz",
+        "dorsal": 1
+    }, {
+        "id": 165,
+        "posicion": "Portero",
+        "nombre": "Iago Herrer\u00edn",
+        "dorsal": 13
+    }, {
+        "id": 637,
+        "posicion": "Portero",
+        "nombre": "Kepa Arrizabalaga",
+        "dorsal": 26
+    }, {
+        "id": 1975,
+        "posicion": "Portero",
+        "nombre": "\u00c1lex Remiro",
+        "dorsal": 29
+    }, {
+        "id": 3693,
+        "posicion": "Portero",
+        "nombre": "Unai Sim\u00f3n",
+        "dorsal": 32
+    }, {
+        "id": 1809,
+        "posicion": "Defensa",
+        "nombre": "Eneko B\u00f3veda",
+        "dorsal": 2
+    }, {
+        "id": 697,
+        "posicion": "Defensa",
+        "nombre": "Aymeric Laporte",
+        "dorsal": 4
+    }, {
+        "id": 2114,
+        "posicion": "Defensa",
+        "nombre": "\u00cd\u00f1igo Lekue",
+        "dorsal": 15
+    }, {
+        "id": 791,
+        "posicion": "Defensa",
+        "nombre": "Xabier Etxeita",
+        "dorsal": 16
+    }, {
+        "id": 32,
+        "posicion": "Defensa",
+        "nombre": "\u00d3scar De Marcos",
+        "dorsal": 18
+    }, {
+        "id": 166,
+        "posicion": "Defensa",
+        "nombre": "Mikel Balenziaga",
+        "dorsal": 24
+    }, {
+        "id": 926,
+        "posicion": "Defensa",
+        "nombre": "Enric Saborit",
+        "dorsal": 25
+    }, {
+        "id": 1972,
+        "posicion": "Defensa",
+        "nombre": "Yeray \u00c1lvarez",
+        "dorsal": 27
+    }, {
+        "id": 462,
+        "posicion": "Mediocampista",
+        "nombre": "Gorka Elustondo",
+        "dorsal": 3
+    }, {
+        "id": 2007,
+        "posicion": "Mediocampista",
+        "nombre": "Javier Eraso",
+        "dorsal": 5
+    }, {
+        "id": 28,
+        "posicion": "Mediocampista",
+        "nombre": "Mikel San Jos\u00e9",
+        "dorsal": 6
+    }, {
+        "id": 157,
+        "posicion": "Mediocampista",
+        "nombre": "Be\u00f1at Etxebarria",
+        "dorsal": 7
+    }, {
+        "id": 30,
+        "posicion": "Mediocampista",
+        "nombre": "Ander Iturraspe",
+        "dorsal": 8
+    }, {
+        "id": 39,
+        "posicion": "Mediocampista",
+        "nombre": "Iker Munia\u00edn",
+        "dorsal": 10
+    }, {
+        "id": 3249,
+        "posicion": "Mediocampista",
+        "nombre": "Mikel Vesga",
+        "dorsal": 12
+    }, {
+        "id": 34,
+        "posicion": "Mediocampista",
+        "nombre": "Markel Susaeta",
+        "dorsal": 14
+    }, {
+        "id": 276,
+        "posicion": "Mediocampista",
+        "nombre": "Mikel Rico",
+        "dorsal": 17
+    }, {
+        "id": 69,
+        "posicion": "Mediocampista",
+        "nombre": "Ra\u00fal Garc\u00eda",
+        "dorsal": 22
+    }, {
+        "id": 1934,
+        "posicion": "Delantero",
+        "nombre": "I\u00f1aki Williams",
+        "dorsal": 11
+    }, {
+        "id": 2112,
+        "posicion": "Delantero",
+        "nombre": "Sabin Merino",
+        "dorsal": 19
+    }, {
+        "id": 45,
+        "posicion": "Delantero",
+        "nombre": "Aritz Aduriz",
+        "dorsal": 20
+    }, {
+        "id": 1775,
+        "posicion": "Delantero",
+        "nombre": "Borja Viguera",
+        "dorsal": 21
+    }, {
+        "id": 3671,
+        "posicion": "Delantero",
+        "nombre": "Asier Villalibre",
+        "dorsal": 28
+    }]
+}

@@ -1,0 +1,140 @@
+{
+    "equipo": "Real Madrid",
+    "temporada": "LaLiga 2016\/17",
+    "jugadores": [{
+        "id": 299,
+        "posicion": "Portero",
+        "nombre": "Keylor Navas",
+        "dorsal": 1
+    }, {
+        "id": 202,
+        "posicion": "Portero",
+        "nombre": "Kiko Casilla",
+        "dorsal": 13
+    }, {
+        "id": 2130,
+        "posicion": "Portero",
+        "nombre": "Rub\u00e9n Y\u00e1\u00f1ez",
+        "dorsal": 25
+    }, {
+        "id": 2722,
+        "posicion": "Portero",
+        "nombre": "\u00c1lex Craninx",
+        "dorsal": 0
+    }, {
+        "id": 790,
+        "posicion": "Defensa",
+        "nombre": "Daniel Carvajal",
+        "dorsal": 2
+    }, {
+        "id": 3,
+        "posicion": "Defensa",
+        "nombre": "Pepe",
+        "dorsal": 3
+    }, {
+        "id": 4,
+        "posicion": "Defensa",
+        "nombre": "Sergio Ramos",
+        "dorsal": 4
+    }, {
+        "id": 18,
+        "posicion": "Defensa",
+        "nombre": "Rapha\u00ebl Varane",
+        "dorsal": 5
+    }, {
+        "id": 631,
+        "posicion": "Defensa",
+        "nombre": "Nacho Fern\u00e1ndez",
+        "dorsal": 6
+    }, {
+        "id": 12,
+        "posicion": "Defensa",
+        "nombre": "Marcelo",
+        "dorsal": 12
+    }, {
+        "id": 15,
+        "posicion": "Defensa",
+        "nombre": "F\u00e1bio Coentr\u00e3o",
+        "dorsal": 15
+    }, {
+        "id": 1979,
+        "posicion": "Defensa",
+        "nombre": "Danilo",
+        "dorsal": 23
+    }, {
+        "id": 3707,
+        "posicion": "Defensa",
+        "nombre": "Achraf Hakimi",
+        "dorsal": 32
+    }, {
+        "id": 1552,
+        "posicion": "Mediocampista",
+        "nombre": "Toni Kroos",
+        "dorsal": 8
+    }, {
+        "id": 1631,
+        "posicion": "Mediocampista",
+        "nombre": "James Rodr\u00edguez",
+        "dorsal": 10
+    }, {
+        "id": 774,
+        "posicion": "Mediocampista",
+        "nombre": "Casemiro",
+        "dorsal": 14
+    }, {
+        "id": 1428,
+        "posicion": "Mediocampista",
+        "nombre": "Mateo Kovacic",
+        "dorsal": 16
+    }, {
+        "id": 1055,
+        "posicion": "Mediocampista",
+        "nombre": "Lucas V\u00e1zquez",
+        "dorsal": 17
+    }, {
+        "id": 624,
+        "posicion": "Mediocampista",
+        "nombre": "Luka Modric",
+        "dorsal": 19
+    }, {
+        "id": 1933,
+        "posicion": "Mediocampista",
+        "nombre": "Marco Asensio",
+        "dorsal": 20
+    }, {
+        "id": 336,
+        "posicion": "Mediocampista",
+        "nombre": "Isco Alarc\u00f3n",
+        "dorsal": 22
+    }, {
+        "id": 1931,
+        "posicion": "Mediocampista",
+        "nombre": "Marcos Llorente",
+        "dorsal": 0
+    }, {
+        "id": 7,
+        "posicion": "Delantero",
+        "nombre": "Cristiano Ronaldo",
+        "dorsal": 7
+    }, {
+        "id": 9,
+        "posicion": "Delantero",
+        "nombre": "Karim Benzema",
+        "dorsal": 9
+    }, {
+        "id": 950,
+        "posicion": "Delantero",
+        "nombre": "Gareth Bale",
+        "dorsal": 11
+    }, {
+        "id": 3226,
+        "posicion": "Delantero",
+        "nombre": "Mariano D\u00edaz",
+        "dorsal": 18
+    }, {
+        "id": 23,
+        "posicion": "Delantero",
+        "nombre": "\u00c1lvaro Morata",
+        "dorsal": 21
+    }]
+}
